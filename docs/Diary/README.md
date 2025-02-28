@@ -3,10 +3,11 @@
 ## Purpose
 This diary documents the **ongoing journey, insights, and reflections** of an emerging Data & Business Intelligence Analyst. It captures key learnings, challenges, breakthroughs, and project iterations.
 
-## Entries
-📌 **[Entry 1: Getting Started](entry-1.md)** – Initial thoughts on launching this BI project.  
-📌 **[Entry 2: Data Preparation Challenges](entry-2.md)** – Overcoming dataset import & structure issues.  
-📌 **[Entry 3: First Tableau Visualizations](entry-3.md)** – Lessons learned from building my first dashboard.  
+## 📌 Entries
+📌 [Entry 1: Getting Started](getting_started.md) – Initial thoughts on launching this BI project.  
+📌 [Entry 2: AOV Verification – Ensuring Data Accuracy in Tableau & Excel](aov_verification_analysis.md)  
+📌 [Entry 3: Custom Color Palettes – Enhancing Tableau’s Visual Storytelling](custom_color_palettes.md)
+
 
 _(More entries to be added as the project progresses.)_
 
