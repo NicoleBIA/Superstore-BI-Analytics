@@ -1,13 +1,15 @@
-# 📖 Journeys of an Emerging Data/Business Intelligence Analyst
+# 📚 Diary of an Emerging Data/Business Intelligence Analyst
+
+Welcome to my project diary, where I document my **ongoing journey**, insights, learnings and reflections in the field of Data and **Business Intelligence**. 
 
 ## Purpose 
-This diary documents the **ongoing journey, insights, and reflections** of an emerging Data & Business Intelligence Analyst. It captures key learnings, challenges, breakthroughs, and project iterations.
+This diary captures and documents key learnings, challenges, breakthroughs, and project iterations as an emerging **Business Intelligence Analyst**.
 
 ## 📌 Entries
 📌 [Entry 1: Getting Started](getting_started.md) – Initial thoughts on launching this BI project.  
 📌 [Entry 2: AOV Verification – Ensuring Data Accuracy in Tableau & Excel](aov_verification_analysis.md)  
 📌 [Entry 3: Custom Color Palettes – Enhancing Tableau’s Visual Storytelling](custom_color_palettes.md)
-
+📌 [Entry 4: Profit Margin Category Analysis](./profit_margin_category_analysis.md)
 
 _(More entries to be added as the project progresses.)_
 
