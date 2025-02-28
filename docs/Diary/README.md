@@ -9,6 +9,7 @@ This diary captures and documents key learnings, challenges, breakthroughs, and 
 📌 [Entry 1: Getting Started](getting_started.md) – Initial thoughts on launching this BI project.  
 📌 [Entry 2: AOV Verification – Ensuring Data Accuracy in Tableau & Excel](aov_verification_analysis.md)  
 📌 [Entry 3: Custom Color Palettes – Enhancing Tableau’s Visual Storytelling](custom_color_palettes.md)
+
 📌 [Entry 4: Profit Margin Category Analysis](./profit_margin_category_analysis.md)
 
 _(More entries to be added as the project progresses.)_
