@@ -1,6 +1,6 @@
 # 📖 Journeys of an Emerging Data/Business Intelligence Analyst
 
-## Purpose
+## Purpose 
 This diary documents the **ongoing journey, insights, and reflections** of an emerging Data & Business Intelligence Analyst. It captures key learnings, challenges, breakthroughs, and project iterations.
 
 ## 📌 Entries
