@@ -11,6 +11,7 @@ This diary captures and documents key learnings, challenges, breakthroughs, and 
 2. [Entry 2: Data Preparation Challenges](./data_preparation_challenges.md)
 3. [Entry 3: Custom Color Palettes – Enhancing Tableau’s Visual Storytelling](./custom_color_palettes.md)
 4. [Entry 4: Profit Margin Category Analysis](./profit_margin_category_analysis.md)
+5. [Entry 5: Customer Count Validation](customer_count_validation.md) – **Discovered and corrected a discrepancy in Customer Count KPI**.
 
 _(More entries to be added as the project progresses.)_
 
