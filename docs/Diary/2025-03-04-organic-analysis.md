@@ -40,7 +40,7 @@ By embracing **curiosity-driven analysis**, I uncovered critical insights that a
 
 ---
 
-## ✨ Key Takeaway: Let the Data Speak  
+##  Key Takeaway: Let the Data Speak  
 
 This experience reinforced a **fundamental truth** in **Business Intelligence**:  
 **The best insights often emerge when we step beyond rigid structures and allow patterns in the data to shape our exploration.**  
@@ -49,11 +49,11 @@ Instead of forcing the data into a predetermined framework, I let my **intuition
 
 This is what separates a **data report** from a **true business intelligence strategy.** 💡  
 
-🔍 **Next Steps:**  
+ **Next Steps:**  
 - Continue refining insights with **regional discount breakdowns**  
 - Group visualizations into **thematic dashboards** for **clearer business narratives**  
 - Apply this organic approach across **future BI projects**  
 
 ---
 
-✍️ **Reflection Complete**: *Data analysis isn’t just about answering questions—it’s about discovering the right ones to ask.*  
+✍ **Reflection Complete**: *Data analysis isn’t just about answering questions—it’s about discovering the right ones to ask.*  
