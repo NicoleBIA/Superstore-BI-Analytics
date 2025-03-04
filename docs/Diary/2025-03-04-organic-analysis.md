@@ -47,7 +47,7 @@ This experience reinforced a **fundamental truth** in **Business Intelligence**:
 
 Instead of forcing the data into a predetermined framework, I let my **intuition, curiosity, and investigative thinking** lead the way—ultimately creating **richer, more valuable insights for business decision-making.**  
 
-This is what separates a **data report** from a **true business intelligence strategy.** 🚀💡  
+This is what separates a **data report** from a **true business intelligence strategy.** 💡  
 
 🔍 **Next Steps:**  
 - Continue refining insights with **regional discount breakdowns**  
