@@ -1,4 +1,4 @@
-```md
+
 # 📌 Data Integrity as Risk Management
 
 ## **The Importance of Data Integrity in Risk Management**
