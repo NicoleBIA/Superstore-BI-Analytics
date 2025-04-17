@@ -8,7 +8,7 @@ By layering **R² values and p-values** onto each visualization, we introduce a 
 
 ## Overall Monthly Sales Trend (All Regions)
 
-![Monthly Sales Trend – All Regions](../../Assets/Monthly_Sales_Trend_Analysis.png)
+![Monthly Sales Trend – All Regions](../../Assetts/Monthly_Sales_Trend_Analysis.png)
 
 - 📈 **Regression Equation**: Sales = 29.62 × Month – 1,206,880  
 - **R² = 0.25** → 25% of sales variation explained by time  
@@ -20,7 +20,7 @@ By layering **R² values and p-values** onto each visualization, we introduce a 
 
 ## 📍 Central Region
 
-![Monthly Sales Trend – Central](../../Assets/Monthly_Sales_Trend_Analysis_Central.png)
+![Central Region](../../Assetts/Monthly_Sales_Trend_Analysis_Central.png)
 
 - **R² = 0.13** → Weak time relationship
 - **p-value = 0.0126** → Statistically significant, but limited predictive value
@@ -32,7 +32,7 @@ By layering **R² values and p-values** onto each visualization, we introduce a 
 
 ## 📍 East Region
 
-![Monthly Sales Trend – East](../../Assets/Monthly_Sales_Trend_Analysis_East.png)
+![East Region](../../Assetts/Monthly_Sales_Trend_Analysis_East.png)
 
 - **R² = 0.17**
 - **p-value = 0.0033**
@@ -44,7 +44,7 @@ By layering **R² values and p-values** onto each visualization, we introduce a 
 
 ## 📍 South Region
 
-![Monthly Sales Trend – South](../../Assets/Monthly_Sales_Trend_Analysis_South.png)
+![South Region](../../Assetts/Monthly_Sales_Trend_Analysis_South.png)
 
 - **R² = 0.03**
 - **p-value = 0.27** (not statistically significant)
@@ -56,7 +56,7 @@ By layering **R² values and p-values** onto each visualization, we introduce a 
 
 ## 📍 West Region
 
-![Monthly Sales Trend – West](../../Assets/Monthly_Sales_Trend_Analysis_West.png)
+![West Region](../../Assetts/Monthly_Sales_Trend_Analysis_West.png)
 
 - **R² = 0.31**
 - **p-value < 0.0001**
