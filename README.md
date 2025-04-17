@@ -7,6 +7,14 @@ Built for both technical and business audiences, this project demonstrates analy
 
 ---
 
+## 📎 Project Context
+
+For more on how this project differs from standard Superstore analyses, read:
+
+👉 [📄 Why This Superstore Project Is Different](docs/Why_This_Project_is_Different.md)
+
+---
+
 ## 🔧 Tools Used
 - **Tableau Desktop** → Interactive dashboards, exploratory analysis, trend modeling
 - **Excel** → Data transformation, pre-cleaning, and inspection
