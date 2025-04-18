@@ -3,7 +3,6 @@ title: 📈 Sales Rep & Regional Sales Performance Analysis
 description: Evaluating individual sales rep contributions and regional sales effectiveness across the Superstore dataset (2014–2017)
 ---
 
-```markdown
 # 📊 Sales Rep & Regional Sales Performance Analysis
 
 This insight explores **individual sales performance** by region across the Superstore dataset (2014–2017), blending regional sales patterns with rep-level outcomes. 
@@ -18,7 +17,7 @@ The analysis is supported by two key visualizations:
 ![Sales_Rep_Regional_Map](../../Assets/Sales_Rep_Regional_Map.png)
 
 **Insight:**
-> Sales are **highest in the West**, managed by **Anna Andreadi**, while **Cassandra Brandow** in the **South** manages the lowest-revenue region. 
+> Sales are **highest in the West**, managed by **Anna Andreadi**, while **Cassandra Brandow** in the **South** manages the lowest-revenue region.  
 > This map reveals the **geographic distribution of sales reps**, highlighting sharp contrasts in regional performance.
 
 ---
@@ -42,7 +41,7 @@ The analysis is supported by two key visualizations:
 
 ---
 
-## 🧐 Analyst Reflection: South Region as a Strategic Inquiry
+## 🧠 Analyst Reflection: South Region as a Strategic Inquiry
 
 This insight sparked several **hypothesis-driven questions** around Cassandra Brandow's underperformance:
 
@@ -54,7 +53,7 @@ This insight sparked several **hypothesis-driven questions** around Cassandra Br
 
 ---
 
-## 🔬 Connecting to Previous Insight: Monthly Sales Trend
+## Connecting to Previous Insight: Monthly Sales Trend
 In the earlier **South Region line chart**, we saw:
 - A **low R-squared (0.026)**
 - A **non-significant p-value (> 0.27)**
@@ -64,14 +63,14 @@ This lends quantitative support to the idea that Cassandra Brandow may be facing
 
 ---
 
-## 🚀 Final Thought
-This is more than just a leaderboard. The sales rep analysis opens up a **diagnostic lens** on market allocation, sales enablement, and territory management. 
+## Final Thought
+This is more than just a leaderboard. The sales rep analysis opens up a **diagnostic lens** on market allocation, sales enablement, and territory management.  
 
 > “Where performance lags, data-driven questions should lead.”
 
 ---
 
-## 🔹 Next Steps (Optional Analysis Ideas)
+## 🔄 Next Steps (Optional Analysis Ideas)
 - Drill-down by **Product Category** within each region
 - Analyze **Customer Segments** per region
 - Compare **Return Rates** per sales rep or region
@@ -79,10 +78,9 @@ This is more than just a leaderboard. The sales rep analysis opens up a **diagno
 
 ---
 
-**Filename:** `Sales_Rep_Regional_Performance.md`
+**Filename:** `Sales_Rep_Regional_Performance.md`  
 **Folder:** `/docs/Insights/`  
 **Visuals Used:**
 - `Sales_Rep_Regional_Map.png`
 - `Sales_Rep_Performance_By_Region.png`
-```
 
