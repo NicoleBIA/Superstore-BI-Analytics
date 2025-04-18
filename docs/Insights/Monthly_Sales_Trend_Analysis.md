@@ -8,7 +8,7 @@ By layering **R² values and p-values** onto each visualization, we introduce a 
 
 ## Overall Monthly Sales Trend (All Regions)
 
-![Monthly Sales Trend – All Regions](../../Assetts/Monthly_Sales_Trend_Analysis.png)
+![Monthly Sales Trend – All Regions](../../Assets/Monthly_Sales_Trend_Analysis.png)
 
 - 📈 **Regression Equation**: Sales = 29.62 × Month – 1,206,880  
 - **R² = 0.25** → 25% of sales variation explained by time  
