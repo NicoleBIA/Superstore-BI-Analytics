@@ -26,6 +26,12 @@ To evaluate **which products drive true business value**, this visualization ble
 
 ---
 
+## 📊 Visual Overview
+
+![Sales by Category and Sub-Category](../../Assets/Sales_by_Category_SubCategory.png)
+
+---
+
 ## ✅ Key Observations
 
 - **Phones** drove the highest revenue (**$330K**), but profit contribution was modest (**$44K**) — raising **ROI** questions.
