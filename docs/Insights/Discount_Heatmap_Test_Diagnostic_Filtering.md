@@ -43,14 +43,14 @@ To test the **impact of aggregation filtering**, different thresholds were appli
 
 ---
 
-## Visual Assets
+### Visual Assets
 
 All visuals are stored in the `/Images/` folder. Here are the linked references:
 
-- ![No Filter](../Images/Discount_Heatmap_Test_BySalesRep_SubCategory.png)
-- ![Filter ≥ 14](../Images/Discount_Heatmap_Test_BySalesRep_SubCategory14.png)
-- ![Filter ≥ 10](../Images/Discount_Heatmap_Test_BySalesRep_SubCategory10.png)
-- ![Filter ≥ 8](../Images/Discount_Heatmap_Test_BySalesRep_SubCategory8.png)
+🖼 [No Filter](../Images/Discount_Heatmap_Test_BySalesRep_SubCategory.png)  
+🖼 [Filter ≥ 14](../Images/Discount_Heatmap_Test_BySalesRep_SubCategory14.png)  
+🖼 [Filter ≥ 10](../Images/Discount_Heatmap_Test_BySalesRep_SubCategory10.png)  
+🖼 [Filter ≥ 8](../Images/Discount_Heatmap_Test_BySalesRep_SubCategory8.png)  
 
 ---
 
