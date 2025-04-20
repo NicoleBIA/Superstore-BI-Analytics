@@ -56,7 +56,7 @@ Redirect budget toward categories with strong profit-to-sales ratios. Test if **
 ---
 
 ## 🔗 Additional Files
-- 📄 [Diagnostic Profitability Framework (Insight)](../Insights/Diagnostic_Profitability_Framework.md)
+- 📄 [Diagnostic Profitability Framework (Insight)](../docs/Insights/Diagnostic_Profitability_Framework.md)
 - 📊 Visuals: Treemap, Heatmap, Diverging Bar Chart
 
 ---
