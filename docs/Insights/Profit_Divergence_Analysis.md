@@ -58,13 +58,13 @@ The insight connects back to root-cause themes in the Diagnostic Profitability F
 ### 🔵 Profit Divergence: Segment x Region  
 ![Profit Divergence – Category/Segment/Region](../../Assets/Profit_Divergence_Segement_CatSubCat_Reg.png)
 
-### 🟡 Heatmap: Corporate | Central  
+### 🟡 Diverging Bar: Corporate | Central  
 ![Corporate Central Heatmap](../../Assets/Profit_Divergence_by_Cat_SubCat_Heatmap_Corporate_Central.png)
 
-### 🟡 Heatmap: Home Office | West  
+### 🟡 Diverging Bar: Home Office | West  
 ![Home Office West Heatmap](../../Assets/Profit_Divergence_by_CatSubCat_Heatmap_HomeOffice_West.png)
 
-### 🟡 Heatmap: Corporate | East  
+### 🟡 Diverging Bar: Corporate | East  
 ![Corporate East Heatmap](../../Assets/Profit_Divergence_CatSubCat_Heatmap_CorporateEast.png)
 
 ---
