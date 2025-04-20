@@ -84,4 +84,5 @@ This insight reframes performance conversations away from top-line focus and tow
 
 ## 🔗 Related Insight
 
-📄 [Diagnostic Profitability Framework](../docs/insights/Diagnostic_Profitability_Framework.md)
+📄 [Diagnostic Profitability Framework](../Insights/Diagnostic_Profitability_Framework.md)
+
