@@ -12,7 +12,7 @@ Through visualizations like **treemaps**, **heatmaps**, and **diverging bar char
 
 ---
 
-## Purpose of the Insight
+## 🟩 Purpose of the Insight
 
 To diagnose where **high sales are not translating into strong profit margins**, thereby guiding more intelligent decisions around:
 
@@ -25,7 +25,7 @@ This diagnostic lens reframes performance conversations from **volume-centric** 
 
 ---
 
-## Key Business Questions Answered
+## 🟦 Key Business Questions Answered
 
 1. Which product segments are generating high revenue but underperforming on profit?  
 2. Where is margin being eroded despite strong sales?  
@@ -49,7 +49,7 @@ This diagnostic lens reframes performance conversations from **volume-centric** 
 
 ---
 
-## Business Value of This Insight
+## 🟦 Business Value of This Insight
 
 - Reframes product performance from sales growth to **profitability optimization**  
 - Helps avoid overinvesting in **underperforming products or regions**  
@@ -60,38 +60,36 @@ This diagnostic lens reframes performance conversations from **volume-centric** 
 
 ## 📊 Featured Visuals
 
-### 🟪 Treemap: Sales vs Profit by Category & Sub-Category  
-![Treemap - Sales vs Profit](../Images/Sales_by_Category_SubCategory.png)
+### 🟪 Machines: The Heavy Cost of Discounting  
+![Machines - Discounting at Order Level](../Images/Machines_SubCat_Discounting.png)
+
+### 🟦 Diverging Bar Chart: Profit + Discount Context  
+![Profit Divergence - Category/Segment/Region](../Images/Profit_Divergence_Segement_CatSubCat_Reg.png)
+
+### 🟨 Heatmaps: Segment & Sub-Category Breakdown  
+- ![Corporate | Central](../Images/Profit_Divergence_by_Cat_SubCat_Heatmap_Corporate_Central.png)  
+- ![Home Office | West](../Images/Profit_Divergence_by_CatSubCat_Heatmap_HomeOffice_West.png)  
+- ![Corporate | East](../Images/Profit_Divergence_CatSubCat_Heatmap_CorporateEast.png)
+
+### 🟦 Sales View – Comparative Insight Layer  
+![Sales Heatmap by Category + Subcategory](../Images/Sales_by_Category_SubCategory_Heatmap.png)
 
 ---
 
-### 🟪 Diverging Bar Chart: Profit + Discount Context  
-![Profit Divergence by Category, Segment & Region](../Images/Profit_Divergence_Segement_CatSubCat_Reg.png)
+## 🧠 Analyst Note: Discount Logic in the Superstore Dataset
 
----
+The `Discount` field in the Superstore dataset is represented as a **percentage (decimal format)**—e.g., a value of `0.50` means a **50% discount**, not $0.50. However, Tableau aggregates these percentages **per order**, which may create confusion. For example, **two items discounted at 50%** will display in Tableau as `1.00` (100%) at the aggregate level.
 
-### 🟦 Heatmap: Discount, Sales & Profit Layered by Sales Rep  
-![Sales Rep Profitability Heatmap](../Images/Sales_by_CatSubCat_Heatmap.png)
+Moreover, since **unit price is not included** in the dataset, analysts must **back-calculate unit cost** using:  
+`Sales ÷ Quantity = Approximated Unit Price`.
 
----
-
-### 🗂️ Machines: The Heavy Cost of Discounting  
-![Archived - Machines Discounting Feb 2025](../Images/Machines_Heavy_Cost_of_Discounting_Feb2025.png)
-
----
-
-## 🧠 Analyst Note – Understanding Discount Logic in Superstore
-
-In the Superstore dataset, **`Discount` values are represented as decimals, not dollars**. A `0.50` discount means **50% off** the product’s unit price—not a $0.50 deduction.  
-
-When multiple items share the same `Order ID` and Sub-Category (e.g., Machines), Tableau **aggregates discounts across line items**, which can misleadingly show `1.0` (100%) if two 50% discounts are summed.  
-This reinforces the importance of reading discount fields as **"per-line-item values"** rather than assuming they represent order-level totals.  
-
-> **Limitation:** The dataset does not include a true unit price field, which can obscure how deeply products are being discounted unless you reverse-calculate from `Sales` ÷ `Quantity`. Analysts should interpret all discount-related visuals with this logic in mind.
+This insight recognizes the **hidden cost of deep discounting** and the **challenges of transparency** when sales and profit metrics are not viewed alongside cost and price fields. It's critical to **interpret discount values with caution** and always validate assumptions with the underlying data structure.
 
 ---
 
 ## Final Reflection
 
-> **“Not all top sellers are top earners.”**  
+> **“Not all top sellers are top earners.”**
+
 When profit margins are layered against volume, a new story emerges. This insight doesn’t just reveal numbers—it reveals **misconceptions**. It equips stakeholders to ask better questions, cut through vanity metrics, and recalibrate strategy toward what truly sustains the business: **contribution, not just conversion.**
+
