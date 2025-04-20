@@ -95,7 +95,6 @@ This insight reframes performance conversations away from top-line focus and tow
 
 ## 🔗 Related Strategic Recommendations
 
-📁 [Diagnostic Profitability Recommendations](../Strategic_Recommendations/diagnostic_profitability_recommendation.md)  
-📁 [Strategic Response – Profit Divergence](../Strategic_Recommendations/profit_divergence_recommendation.md)
-
+📁 [Diagnostic Profitability Framework](../docs/Insights/Diagnostic_Profitability_Framework.md) 
+📁 [Profit Divergence Analysis](../docs/Insights/Profit_Divergence_Analysis.md)
 ---
