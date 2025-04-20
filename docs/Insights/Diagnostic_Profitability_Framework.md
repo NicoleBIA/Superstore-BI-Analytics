@@ -61,7 +61,7 @@ This diagnostic lens reframes performance conversations from **volume-centric** 
 ## 📊 Featured Visuals
 
 ### 🟪 Machines: The Heavy Cost of Discounting  
-![Machines - Discounting at Order Level](../Assets/Machines_SubCat_Discounting.png)
+![Machines - Discounting at Order Level](../../Assets/Machines_SubCat_Discounting.png)
 
 ### 🟦 Diverging Bar Chart: Profit + Discount Context  
 ![Profit Divergence – Category/Segment/Region](../Assets/Profit_Divergence_Segement_CatSubCat_Reg.png)
