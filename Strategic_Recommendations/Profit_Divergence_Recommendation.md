@@ -1,6 +1,6 @@
 # Strategic Recommendations – Profit Divergence Analysis  
 **Filename:** `Profit_Divergence_Recommendation.md`  
-🔗 Companion Insight: [Profit Divergence Analysis](../Insights/Profit_Divergence_Analysis.md)
+🔗 Companion Insight: [Profit Divergence Analysis](..docs/Insights/Profit_Divergence_Analysis.md)
 
 ---
 
