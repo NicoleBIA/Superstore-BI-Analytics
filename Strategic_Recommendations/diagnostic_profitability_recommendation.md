@@ -11,7 +11,7 @@
 
 ## Summary of Diagnostic Insight
 
-The [Diagnostic Profitability Framework](../Insights/Diagnostic_Profitability_Framework.md) revealed a fundamental issue in the Superstore business model: **high-volume product categories like Phones and Machines are eroding profit margins** due to aggressive discounting, competitive market pressure, and visibility gaps in net contribution analysis.
+The [Diagnostic Profitability Framework](../docs/Insights/Diagnostic_Profitability_Framework.md) revealed a fundamental issue in the Superstore business model: **high-volume product categories like Phones and Machines are eroding profit margins** due to aggressive discounting, competitive market pressure, and visibility gaps in net contribution analysis.
 
 ---
 
