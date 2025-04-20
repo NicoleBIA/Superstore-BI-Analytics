@@ -61,18 +61,18 @@ This diagnostic lens reframes performance conversations from **volume-centric** 
 ## 📊 Featured Visuals
 
 ### 🟪 Machines: The Heavy Cost of Discounting  
-![Machines - Discounting at Order Level](../../Assets/Machines_SubCat_Discounting.png)
+![Machines - Discounting at Order Level](/Assets/Machines_SubCat_Discounting.png)
 
 ### 🟦 Diverging Bar Chart: Profit + Discount Context  
-![Profit Divergence – Category/Segment/Region](../Assets/Profit_Divergence_Segement_CatSubCat_Reg.png)
+![Profit Divergence – Category/Segment/Region](/Assets/Profit_Divergence_Segement_CatSubCat_Reg.png)
 
 ### 🟨 Heatmaps: Segment & Sub-Category Breakdown  
-- ![Corporate | Central](../Assets/Profit_Divergence_by_Cat_SubCat_Heatmap_Corporate_Central.png)  
-- ![Home Office | West](../Assets/Profit_Divergence_by_CatSubCat_Heatmap_HomeOffice_West.png)  
-- ![Corporate | East](../Assets/Profit_Divergence_CatSubCat_Heatmap_CorporateEast.png)
+- ![Corporate | Central](/Assets/Profit_Divergence_by_Cat_SubCat_Heatmap_Corporate_Central.png)  
+- ![Home Office | West](/Assets/Profit_Divergence_by_CatSubCat_Heatmap_HomeOffice_West.png)  
+- ![Corporate | East](/Assets/Profit_Divergence_CatSubCat_Heatmap_CorporateEast.png)
 
 ### 🟦 Sales View – Comparative Insight Layer  
-![Sales Heatmap by Category + Subcategory](../Assets/Sales_by_Category_SubCategory_Heatmap.png)
+![Sales Heatmap by Category + Subcategory](/Assets/Sales_by_Category_SubCategory_Heatmap.png)
 
 ---
 
