@@ -97,14 +97,15 @@ This insight reframes performance conversations away from top-line focus and tow
 
 ## 🧠 Analyst Note: Pattern Recognition from Root Cause Logic
 
-This insight connects back to root-cause themes identified in the [🟪 Diagnostic Profitability Framework](../docs/Insights/Diagnostic_Profitability_Framework.md).  
+This insight connects back to root-cause themes identified in the 
+[🟪 Diagnostic Profitability Framework](../docs/Insights/Diagnostic_Profitability_Framework.md).  
 Many of the worst-performing segment-category combinations reflect the same erosion points flagged by **5 Whys** — reinforcing that margin breakdown is not isolated, but structurally embedded across segment-region intersections.
 
 ---
 
 ## 📁 Related Strategic Recommendations
 
-- [🟪 Diagnostic Profitability Recommendations](../Strategic_Recommendations/diagnostic_profitability_recommendation.md)  
-- [🟨 Strategic Response – Profit Divergence](../Strategic_Recommendations/profit_divergence_recommendation.md)
+[🟪 Diagnostic Profitability Recommendations](../Strategic_Recommendations/diagnostic_profitability_recommendation.md)   
+[🟨 Strategic Response – Profit Divergence](../Strategic_Recommendations/profit_divergence_recommendation.md)
 
 ---
