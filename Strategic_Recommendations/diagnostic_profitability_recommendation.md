@@ -1,6 +1,6 @@
 # 🧠 Strategic Recommendation  
 **Filename:** `diagnostic_profitability_recommendation.md`  
-**Linked Insight:** [Diagnostic Profitability Framework](../Insights/Diagnostic_Profitability_Framework.md)
+**Linked Insight:** [Diagnostic Profitability Framework](../docs/Insights/Diagnostic_Profitability_Framework.md)
 
 ---
 
