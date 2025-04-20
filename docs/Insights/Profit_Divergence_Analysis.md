@@ -37,7 +37,7 @@ Leadership often celebrates high sales volume — but without profit visibility,
 This analysis drills into combinations of **Segment × Region** to assess **Profit vs. Sales**. Using diverging bar charts and layered heatmaps, it becomes clear that:
 
 - 🟦 **Tables and Bookcases** underperform in **Consumer and Corporate segments** across **East and South** regions.  
-- 🟩 **Machines** show widespread erosion across all segments, often with **100% discounting** (see companion insight: [Diagnostic Profitability Framework](../docs/insights/Diagnostic_Profitability_Framework.md)).  
+- 🟩 **Machines** show widespread erosion across all segments, often with **100% discounting** (see companion insight: [Diagnostic Profitability Framework](/docs/insights/Diagnostic_Profitability_Framework.md)).  
 - 🟪 **Binders** are heavily discounted and frequently sold, yet yield **consistently negative profit**, especially in the **South region**.
 
 These patterns suggest a deeper problem in how **discounting strategies**, **regional targeting**, and **cost structures** align with sales performance.
