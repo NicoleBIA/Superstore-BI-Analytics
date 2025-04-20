@@ -6,90 +6,81 @@
 
 ## 🟪 Brief Summary
 
-This insight focuses on a critical disconnect observed between high-revenue performance and low profitability across several sub-categories in the Superstore dataset. While categories like **Phones, Machines, and Tables** generate significant sales volume, their **profit contribution is disproportionately low**.
+This insight uncovers a consistent disconnect between sales volume and profitability across several product segments in the Superstore dataset. While categories like **Phones**, **Machines**, and **Tables** contribute heavily to top-line revenue, they deliver **surprisingly low or negative profits**.  
 
-Through visualizations like **treemaps**, **heatmaps**, and **diverging bar charts**, this insight unmasks the hidden cost dynamics—highlighting where margin erosion occurs beneath the surface of top-line performance.
+By layering **discount rates**, **segment performance**, and **category-level profit margins**, this diagnostic analysis exposes where **margin erosion is quietly undermining performance**—despite what surface-level sales reports suggest.
 
 ---
 
-## 🟩 Purpose of the Insight
+## 🟦 Purpose of the Insight
 
-To diagnose where **high sales are not translating into strong profit margins**, thereby guiding more intelligent decisions around:
+To diagnose where **sales volume masks weak profit contribution**, enabling sharper business decisions around:
 
-- Pricing strategy  
-- Promotion efficiency  
-- Inventory prioritization  
-- Channel & segment-level performance realignment  
+- Product prioritization and inventory mix  
+- Strategic discount policies  
+- Segment and region-specific profitability  
+- Data storytelling that goes beyond revenue optics  
 
-This diagnostic lens reframes performance conversations from **volume-centric** to **margin-conscious**, laying the foundation for **ROI-led product optimization**.
+This insight reframes executive performance reviews from “sales-centric” to **margin-conscious** and lays the foundation for smarter allocation and pricing strategy.
 
 ---
 
 ## 🟦 Key Business Questions Answered
 
-1. Which product segments are generating high revenue but underperforming on profit?  
-2. Where is margin being eroded despite strong sales?  
-3. Are discounting patterns contributing to loss-making segments?  
-4. Which regions or segments are amplifying the profit loss (e.g., Consumer / East)?  
-5. What are the hidden winners? (e.g., Copiers & Paper with high margin-to-sales ratios)
+- Which high-revenue products are failing to generate healthy profits?  
+- Where are discounting practices eroding margins the most?  
+- Are there differences by **region**, **segment**, or **category** that indicate hidden risk?  
+- Where are the **high-margin winners** that deserve more strategic focus?  
+- How can BI tools be used to surface these issues before they become structural problems?
 
 ---
 
-## Diagnostic Clarity Using 5 Whys
+## 🟩 How the 5 Whys Unlocked Strategic Clarity
 
-**Observation:** Machines & Phones appear to be top performers in sales but contribute very little to overall profit.
+**Observation:** Machines & Phones are high-volume sellers—but underperform on profit.
 
-> **“Why do high-revenue categories like Phones and Machines underperform on margin?”**
+> **Why do high-revenue categories underperform on margin?**
 
-- ✅ **1st Why:** Because discounting is disproportionately high, especially in consumer-focused segments.  
-- ✅ **2nd Why:** Because these products are part of competitive, price-sensitive markets where markdowns are needed to drive volume.  
-- ✅ **3rd Why:** Because the business may prioritize market share or revenue optics over unit profitability.  
-- ✅ **4th Why:** Because decision-makers often lack visibility into true net contribution per product/segment/region.  
-- ✅ **5th Why:** Because traditional dashboards or reports don’t layer in profit margin, discount %, and segment-level cost analysis together in one place.
+✅ **1st Why:** Because **discounting is disproportionately high**, especially in the Consumer segment.  
+✅ **2nd Why:** Because they’re part of **highly competitive, price-sensitive categories**.  
+✅ **3rd Why:** Because businesses may **prioritize market share or revenue optics** over profitability.  
+✅ **4th Why:** Because most reporting **doesn’t tie margin erosion to order-level or segment-level discount behaviors**.  
+✅ **5th Why:** Because dashboards often **don’t integrate margin, discount %, and profit-to-sales ratio in one place.**
 
 ---
 
-## 🟦 Business Value of This Insight
+## 🟪 Analyst Note on Discount Logic
 
-- Reframes product performance from sales growth to **profitability optimization**  
-- Helps avoid overinvesting in **underperforming products or regions**  
-- Empowers teams to **course-correct** around discounting and inventory  
-- Demonstrates **BI maturity** by shifting from surface metrics to **root-cause analysis**
+In the Superstore dataset, `Discount` is expressed as a **percentage value per transaction line**, not a dollar figure. For example, two rows showing a discount of `0.50` under the same `Order ID` means **each line received a 50% discount**, not that a full 100% discount was applied.  
+
+> Tableau sums discounts **per row**, not per order. This can create misleading visuals unless analysts carefully interpret the data structure.
 
 ---
 
 ## 📊 Featured Visuals
 
-### 🟪 Machines: The Heavy Cost of Discounting  
-![Machines – Discounting at Order Level](/Assets/Machines_SubCat_Discounting.png)
+🟩 **Treemap – Sales vs. Profit by Category & Sub-Category**  
+![Sales and Profit Treemap](../../Assets/Sales_by_Category_SubCategory.png)
 
-### 🟦 Diverging Bar Chart: Profit + Discount Context  
-![Profit Divergence – Category/Segment/Region](/Assets/Profit_Divergence_Segement_CatSubCat_Reg.png)
+🟨 **Segment-Level Diverging Bar Chart – Profit Divergence**  
+![Profit Divergence View](../../Assets/Profit_Divergence_Segement_CatSubCat_Reg.png)
 
-### 🟨 Heatmaps: Segment & Sub-Category Breakdown  
-- ![Corporate | Central](/Assets/Profit_Divergence_by_Cat_SubCat_Heatmap_Corporate_Central.png)  
-- ![Home Office | West](/Assets/Profit_Divergence_by_CatSubCat_Heatmap_HomeOffice_West.png)  
-- ![Corporate | East](/Assets/Profit_Divergence_CatSubCat_Heatmap_CorporateEast.png)
+🟪 **Heatmap – Profit & Discount Variance by Category/Subcategory**  
+![Profit Heatmap – Corporate, Central](../../Assets/Profit_Divergence_by_Cat_SubCat_Heatmap_Corporate_Central.png)  
+![Profit Heatmap – Home Office, West](../../Assets/Profit_Divergence_by_CatSubCat_Heatmap_HomeOffice_West.png)  
+![Profit Heatmap – Corporate, East](../../Assets/Profit_Divergence_CatSubCat_Heatmap_CorporateEast.png)
 
-### 🟦 Sales View – Comparative Insight Layer  
-![Sales Heatmap by Category + Subcategory](/Assets/Sales_by_Category_SubCategory_Heatmap.png)
-
----
-
-## 🧠 Analyst Note: Discount Logic in the Superstore Dataset
-
-The `Discount` field in the Superstore dataset is represented as a **percentage (decimal format)**—e.g., a value of `0.50` means a **50% discount**, not $0.50. However, Tableau aggregates these percentages **per order**, which may create confusion. For example, **two items discounted at 50%** will display in Tableau as `1.00` (100%) at the aggregate level.
-
-Moreover, since **unit price is not included** in the dataset, analysts must **back-calculate unit cost** using:  
-`Sales ÷ Quantity = Approximated Unit Price`.
-
-This insight recognizes the **hidden cost of deep discounting** and the **challenges of transparency** when sales and profit metrics are not viewed alongside cost and price fields. It's critical to **interpret discount values with caution** and always validate assumptions with the underlying data structure.
+🟧 **Machines Focus Visual – Discounting Deep Dive**  
+![Machines Discount Analysis](../../Assets/Machines_SubCat_Discounting.png)
 
 ---
 
 ## Final Reflection
 
-> **“Not all top sellers are top earners.”**
+> “Not all top sellers are top earners.”  
 
-When profit margins are layered against volume, a new story emerges. This insight doesn’t just reveal numbers—it reveals **misconceptions**. It equips stakeholders to ask better questions, cut through vanity metrics, and recalibrate strategy toward what truly sustains the business: **contribution, not just conversion.**
+This diagnostic insight challenges the reflex to focus on sales leaders and instead **surfaces where margin risk quietly lives**. By combining visual and analytical techniques, this analysis enables leaders to stop chasing volume alone—and instead optimize based on **contribution, not just conversion.**
+
+---
+
 
