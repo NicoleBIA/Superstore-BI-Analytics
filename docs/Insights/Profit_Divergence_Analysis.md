@@ -105,7 +105,7 @@ Many of the worst-performing segment-category combinations reflect the same eros
 
 ## 📁 Related Strategic Recommendations
 
-[🟪 Diagnostic Profitability Recommendations](../Strategic_Recommendations/diagnostic_profitability_recommendation.md)   
-[🟨 Strategic Response – Profit Divergence](../Strategic_Recommendations/profit_divergence_recommendation.md)
+[🟪 Diagnostic Profitability Recommendations](/Strategic_Recommendations/diagnostic_profitability_recommendation.md)   
+[🟨 Strategic Response – Profit Divergence](/Strategic_Recommendations/profit_divergence_recommendation.md)
 
 ---
