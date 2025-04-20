@@ -76,5 +76,5 @@ This recommendation plan reorients strategy from **blanket discounting and volum
 
 ---
 
-📁 Insight Reference: [Profit Divergence Analysis](../Insights/Profit_Divergence_Analysis.md)  
+📁 Insight Reference: [Profit Divergence Analysis](../docs/Insights/Profit_Divergence_Analysis.md)  
 📂 Save Location: `/Strategic_Recommendations/Profit_Divergence_Recommendation.md`
