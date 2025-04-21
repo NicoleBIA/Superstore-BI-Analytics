@@ -1,6 +1,6 @@
 ## Strategic Recommendation – Segment-Level Discount Strategy
 
-📁 Related Insight: [/Segment Discount Analysis – Profitability & Revenue Lost from Discount Erosion](Segment_Discount_Analysis.md)
+📁 Related Insight: [Insights/Segment Discount Analysis – Profitability & Revenue Lost from Discount Erosion](Segment_Discount_Analysis.md)
 
 ---
 
