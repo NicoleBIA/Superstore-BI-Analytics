@@ -37,9 +37,12 @@ The visual shows that Furniture’s low profitability is driven by excessive dis
 - Establish minimum margin thresholds before approving discounts.  
 - Use guardrail alerts in the sales system to flag excessive markdowns.  
 
-> 🟣 *AI-powered pricing systems can simulate the impact of proposed discounts in real time, helping enforce guardrails before discounts are applied.*  
-> These models assist in forecasting margin outcomes and preventing undercutting thresholds — enabling more proactive control.  
-> *While AI was not implemented in this analysis, the strategy reflects capabilities commonly supported by AI pricing platforms and retail optimization tools.*
+> 🟣 *AI-powered pricing systems can simulate the impact of proposed discounts in real time, helping enforce guardrails 
+  before discounts are applied.*  
+> These models assist in forecasting margin outcomes and preventing undercutting thresholds — enabling more proactive 
+  control.  
+> *While AI was not implemented in this analysis, the strategy reflects capabilities commonly supported by AI pricing 
+   platforms and retail optimization tools.*
 
 ---
 
@@ -48,8 +51,10 @@ The visual shows that Furniture’s low profitability is driven by excessive dis
 - Use category-level price elasticity to create controlled discount tiers (e.g., low, moderate, strategic discount).  
 - Apply selectively to price-sensitive vs. value-sensitive subcategories.  
 
-> 🔵 *AI-driven elasticity modeling supports this tiering approach by identifying which products respond to discounting and which do not.*  
-> Retailers often use historical sales, discount responsiveness, and demand signals to **dynamically define optimal markdown tiers**.  
+> 🔵 *AI-driven elasticity modeling supports this tiering approach by identifying which products respond to discounting and 
+  which do not.*  
+> Retailers often use historical sales, discount responsiveness, and demand signals to **dynamically define optimal markdown 
+  tiers**.  
 > *The strategy aligns with those AI-supported capabilities, even if not directly deployed in this project.*
 
 ---
@@ -68,8 +73,10 @@ The visual shows that Furniture’s low profitability is driven by excessive dis
 - Trial limited campaigns without discounts (e.g., free shipping, bundle offers).  
 - Measure profitability uplift and customer retention response.  
 
-> 🟣 *AI-enhanced testing platforms can track A/B performance in real time and analyze results across time periods and customer segments.*  
-> These tools help quickly identify high-performing alternatives to discounts — enabling smarter, more profitable campaign designs.
+> 🟣 *AI-enhanced testing platforms can track A/B performance in real time and analyze results across time periods and 
+  customer segments.*  
+> These tools help quickly identify high-performing alternatives to discounts — enabling smarter, more profitable campaign 
+  designs.
 
 ---
 
