@@ -1,6 +1,6 @@
 # Profit & Margin Efficiency by Category – Performance vs. Discount Erosion
 
-![Profit Margin Efficiency Tooltip View](../Assets/Profit_Margin_Efficiency_ProductCat_Perf_Disc_ErosionTT.png)
+![Profit Margin Efficiency Tooltip View](/Assets/Profit_Margin_Efficiency_ProductCat_Perf_Disc_ErosionTT.png)
 
 > **Note:** This view includes slicers for Segment and Sub-Category to demonstrate interactivity in Tableau. Static images shown for GitHub documentation.
 
