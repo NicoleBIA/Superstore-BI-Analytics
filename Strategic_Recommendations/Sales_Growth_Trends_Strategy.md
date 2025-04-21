@@ -35,6 +35,9 @@ This strategy brief highlights how the **fastest growth (2016)** and **strongest
 | **Risk Monitoring** | Investigate 2015 to understand **market or operational weaknesses** that temporarily reversed growth. |
 | **Executive Reporting** | Highlight 2016 and 2017 as contrasting growth narratives: one fast, one stable — both useful for stakeholder decision-making. |
 
+> 🔗 [View Supporting Visual – Sales Growth Line Chart with Trendlines](../Assets/Sales_Growth_Insights_2014_2017_Regression.png)  
+> This chart provides a regression-backed view of monthly sales trends from 2014–2017. The 2017 line shows the strongest linear relationship between time and revenue (R² = 0.68, p < 0.001), reinforcing the stability insight referenced above.
+
 ---
 
 ## 🧩 Recommended Tactical Actions  
