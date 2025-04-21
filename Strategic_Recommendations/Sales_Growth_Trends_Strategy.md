@@ -37,6 +37,7 @@ This strategy brief highlights how the **fastest growth (2016)** and **strongest
 
 > 🔗 [View Supporting Visual – Sales Growth Line Chart with Trendlines](../Assets/Sales_Growth_Insights_2014_2017_Regression.png)  
 > This chart provides a regression-backed view of monthly sales trends from 2014–2017. The 2017 line shows the strongest linear relationship between time and revenue (R² = 0.68, p < 0.001), reinforcing the stability insight referenced above.
+
 > 🔗 [View Supporting Visual – Sales Growth by Year Summary Table](../Assets/Sales_Growth_by_Year_Summary_Table.png)  
 > This table includes yearly total sales, YoY growth %, absolute revenue change, and running total values. It supports the timeline analysis by quantifying both momentum (2016) and scale (2017) in the sales trend.
 
