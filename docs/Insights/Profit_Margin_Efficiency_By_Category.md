@@ -57,5 +57,5 @@ Despite robust sales, Furniture barely returns profit. Its **profit margin of ju
 ---
 
 ### 🔗 Related Strategic Recommendation:
-📄 [Profit_Divergence_Recommendations.md](/Strategic_Recommendations/Profit_Divergence_Recommendations.md)
+📄 [Profit_Divergence_Recommendations.md](Strategic_Recommendations/Profit_Divergence_Recommendations.md)
 
