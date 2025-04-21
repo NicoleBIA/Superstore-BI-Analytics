@@ -50,12 +50,13 @@ Despite robust sales, Furniture barely returns profit. Its **profit margin of ju
 
 ### 🔵 Visual Reference (Static Export)
 
-![Profit Margin Efficiency](Assets/Profit_Margin_Efficiency_ProductCat_Perf_Disc_Erosion.png)
+![Profit Margin Efficiency](../../Assets/Profit_Margin_Efficiency_ProductCat_Perf_Disc_Erosion.png)
 
 > The vertical dashed line represents the average category profit of **$95,465**.
 
 ---
 
 ### 🔗 Related Strategic Recommendation:
-📄 [Profit_Divergence_Recommendations.md](Strategic_Recommendations/Profit_Divergence_Recommendations.md)
+📄 [Profit_Divergence_Recommendations.md](../../Strategic_Recommendations/Profit_Divergence_Recommendations.md)
+
 
