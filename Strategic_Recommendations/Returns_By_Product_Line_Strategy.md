@@ -65,6 +65,12 @@ This strategy brief identifies tactical opportunities and margin vulnerabilities
 
 ---
 
+> **What Is SKU Rationalization?**  
+> SKU Rationalization is the process of evaluating product performance to reduce or restructure low-performing, redundant, or unprofitable SKUs (Stock Keeping Units).  
+> The goal is to improve profit margins, simplify inventory, reduce returns, and optimize operational efficiency by focusing on high-impact products.
+
+---
+
 **File Path:**  
 📂 `/Strategic_Recommendations/returns_by_product_line_strategy.md`  
 📸 Image references located in `/Assets/`
