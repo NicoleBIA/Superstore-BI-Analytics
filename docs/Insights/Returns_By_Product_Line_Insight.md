@@ -10,13 +10,13 @@ Labels and Paper topped profit margin rankings, while Machines and Bookcases rev
 ## 🟪 Key Highlights
 
 - **Highest Order Volume**  
-  - 📦 Binders (1,523 orders) and Paper (1,370 orders) had the highest sub-category demand.
+  - 🟢 Binders (1,523 orders) and Paper (1,370 orders) had the highest sub-category demand.
 
 - **Top Profit Margin Leaders**  
-  - 🏆 Labels: 44.4%  
-  - 🏆 Paper: 43.4%  
-  - 🏆 Envelopes: 42.3%  
-  - 🏆 Copiers: 37.2%
+  - 🟡 Labels: 44.4%  
+  - 🟣 Paper: 43.4%  
+  - 🔵 Envelopes: 42.3%  
+  - 🟢 Copiers: 37.2%
 
 - **High Sales With Risk of Margin Erosion**  
   - Machines and Bookcases show signs of margin loss or risk despite high ticket prices or substantial order quantities.
