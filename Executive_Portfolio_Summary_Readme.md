@@ -52,7 +52,7 @@ Each section below features representative visuals from the full dashboard, link
 > Sales trends from 2014–2017 showed a clear upward trajectory.  
 > **Trend lines with statistically significant R² values** confirmed the strength of the growth pattern, particularly in 2017 where year-over-year growth reached its peak.
 
-🗂 Insight: [`Sales Growth Trends Insight →`](docs/Insights/Sales_Growth_Trends_Strategy.md)
+🗂 Insight: [`Sales Growth Trends Insight →`](Strategic_Recommendations/Sales_Growth_Trends_Strategy.md)
 
 ---
 
