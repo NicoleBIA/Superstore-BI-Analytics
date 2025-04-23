@@ -11,7 +11,7 @@ Built for both technical and business audiences, this project demonstrates analy
 
 For more on how this project differs from standard Superstore analyses, read:
 
-👉 [📄 Why This Superstore Project Is Different](docs/Why_This_Project_is_Different.md)
+🟦 [📄 Why This Superstore Project Is Different](docs/Why_This_Project_is_Different.md)
 
 ---
 
@@ -32,21 +32,4 @@ To align the project’s visual identity with professional branding and psycholo
 - Reinforced brand cohesion and clarity across all views
 
 ---
-
-## 🗂️ Repository Structure
-
-```bash
-📁 Superstore-BI-Analytics
-├── README.md                  → Project introduction & structure (you’re here!)
-├── /docs/                     → Core documentation, insights & strategic briefs
-│   ├── Strategy/              → Strategic recommendations & stakeholder guidance
-│   ├── Insights/              → Key analytical visuals with interpretation
-│   ├── Risk_Management/       → Data integrity, validation & methodological notes
-│   └── Notes/                 → In-progress work, scratch files, early thoughts
-├── /Tableau/                  → Tableau visual assets
-│   ├── Dashboards/            → Finalized interactive dashboards
-│   ├── Visualizations/        → Saved visual screenshots for GitHub/portfolio
-│   └── Exploratory-Analysis/  → Ad hoc visuals and preliminary EDA
-├── /SQL/                      → Optional queries for data validation & EDA
-└── /Assets/                   → Images, diagrams, and graphical elements
 
