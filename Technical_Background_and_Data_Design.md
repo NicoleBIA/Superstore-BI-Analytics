@@ -75,21 +75,28 @@ Although this project was completed in a simulated consultancy context with publ
 
 ---
 
-## 📘 Glossary of Key Terms *(To Be Completed)*
+## 📘 Glossary of Key Terms
 
 | Term | Definition |
 |------|------------|
-| **True Discount** | Difference between expected and actual revenue post-discount |
-| **Profit Margin %** | Net profit divided by original sales price |
-| **Revenue Lost %** | Share of revenue forfeited due to discounts |
-| **Returned %** | Proportion of orders that were returned |
-| *(More to come)* |  |
+| **True Discount** | Difference between the original price and actual sales price, reflecting real revenue lost due to discounting. |
+| **Profit Margin %** | Net profit as a percentage of the original sales price (Profit ÷ Original Sales Price). |
+| **Revenue Lost %** | Percentage of potential revenue forfeited due to discounting. |
+| **Returned %** | Proportion of total orders that were returned. |
+| **Cost per Acquisition (CPA)** | The total cost incurred to acquire a customer or close a sale, often used to evaluate marketing or sales efficiency. |
+| **Cost to Profit Conversion** | A measure of how effectively a cost input (e.g., discount, promotion, marketing) translates into net profit. |
+| **Negative Inflection Point** | A moment in trend analysis where performance shifts direction, often signaling decline or deceleration in key metrics. |
+| **Discount Erosion** | The gradual loss of profitability caused by excessive or poorly managed discounting strategies. |
+| **Margin Efficiency** | A performance measure indicating how effectively a product, segment, or category generates profit relative to revenue. |
+| **Regression (Linear)** | A statistical method used to model the relationship between a dependent variable and one or more independent variables. |
+| **R² (Coefficient of Determination)** | Indicates how well a regression model explains variability in the data; values closer to 1 suggest a stronger model fit. |
+
 
 ---
 
 ## 📌 Related Files
 
-- 📄 [Executive Business Intelligence Report README](./Executive_Business_Intelligence_Report.md)
+- 📄 [Executive Business Intelligence Report README](./EExecutive_Portfolio_Summary_README.md)
 - 📁 [Superstore-BI-Analytics GitHub Repository](./)
 
 ---
