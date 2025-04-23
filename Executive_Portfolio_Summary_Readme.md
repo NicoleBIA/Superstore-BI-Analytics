@@ -59,7 +59,7 @@ Each section below features representative visuals from the full dashboard, link
 ### 🔹 2. Sales Rep & Regional Performance
 
 ![Scorecard Table](Assets/Sales_Growth_by_Year_Summary_Table.png)  
-![Bubble Chart](Assets/SalesRep_Bubble_Chart.png)
+![Bubble Chart](Assets/Sales_Rep_Performance_By_Region.png)
 
 > Some reps achieved high revenue but delivered low or negative margins. Regional disparities in performance suggest strategy misalignment or inconsistent discounting practices.
 
