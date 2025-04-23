@@ -3,11 +3,28 @@
 ## 🌟 Project Theme
 **The Discounting Dilemma: Margin Erosion, Profit Risk & Returns in Superstore Sales**
 
-This executive briefing distills key findings and strategic recommendations from a 17-visual BI analysis focused on margin erosion, excessive discounting, and segment-specific return behaviors. The project was rebuilt in under 5 days after the loss of an original Tableau file and serves as a model of applied business intelligence, profit risk diagnostics, and data-driven strategy layering.
+# Superstore BI Analytics – Executive Intelligence Summary
+
+## 🌟 Project Theme  
+**The Discounting Dilemma: Margin Erosion, Profit Risk & Returns in Superstore Sales**
 
 ---
 
-## 🏛️ Business Problem
+## 📄 Executive Summary
+
+This project presents a strategic-level diagnostic of Superstore’s sales performance from 2014–2017, with a sharp focus on profitability erosion, discount behavior, and return risks. Rebuilt in under five days following the loss of a Tableau source file, the analysis spans 17+ visual insights and connects data exploration to real-world business strategy.
+
+Using segmentation, regression modeling, and visual analytics, the project uncovers patterns of over-discounting, unprofitable product lines, and regional margin inconsistencies. Each key finding is linked to a supporting insight narrative and recommendation, offering decision-makers a complete view of both performance gaps and actionable paths forward.
+
+This README summarizes the full BI intelligence journey: from business problem to data-backed recommendation. It is designed for executives, BI leaders, and hiring managers seeking clear storytelling, technical fluency, and data-aligned strategy — all in one place.
+
+---
+
+This executive briefing distills key findings and strategic recommendations from a Business Inelligene Analysis and Visualization story across 18 Superstore Performance perspectives focused on margin erosion, excessive discounting, and segment-specific return behaviors. The project serves as a model of applied business intelligence, profit risk diagnostics, and data-driven strategy layering and storytelling.
+
+---
+
+## 🟦 Business Problem
 
 Despite steady sales growth from 2014 to 2017, Superstore faces persistent margin pressure and declining profitability driven by:
 
@@ -18,7 +35,7 @@ Despite steady sales growth from 2014 to 2017, Superstore faces persistent margi
 
 ---
 
-## ❓ Business Questions
+## 🟪 Business Questions
 
 - Which products, segments, and regions contribute most (and least) to profitability?
 - Where are discounting practices undermining margin health?
@@ -35,59 +52,59 @@ Each section below features representative visuals from the full dashboard, link
 
 ### 🔹 1. Sales Growth & Trend Validation (2014–2017)
 
-![Sales Growth](/Assets/Sales_Growth_Insights_2014_2017_Regression.png)
+![Sales Growth](Assets/Sales_Growth_Insights_2014_2017_Regression.png)
 
 > Sales trends from 2014–2017 showed a clear upward trajectory.  
 > **Trend lines with statistically significant R² values** confirmed the strength of the growth pattern, particularly in 2017 where year-over-year growth reached its peak.
 
-🗂 Insight: [`Sales Growth Trends Insight →`](/docs/Insights/sales_growth_trends_insight.md)
+🗂 Insight: [`Sales Growth Trends Insight →`](docs/Insights/sales_growth_trends_insight.md)
 
 ---
 
 ### 🔹 2. Sales Rep & Regional Performance
 
-![Scorecard Table](/Assets/Sales_Rep_Performance_Scorecard_RPM.png)  
-![Bubble Chart](/Assets/SalesRep_Bubble_Chart.png)
+![Scorecard Table](Assets/Sales_Rep_Performance_Scorecard_RPM.png)  
+![Bubble Chart](Assets/SalesRep_Bubble_Chart.png)
 
 > Some reps achieved high revenue but delivered low or negative margins. Regional disparities in performance suggest strategy misalignment or inconsistent discounting practices.
 
-🗂 Insight: [`Sales Rep & Regional Performance Insight →`](../docs/Insights/sales_rep_and_region_insight.md)
+🗂 Insight: [`Sales Rep & Regional Performance Insight →`](docs/Insights/sales_rep_and_region_insight.md)
 
 ---
 
 ### 🔹 3. Category & Sub-Category Profitability
 
-![Profit Margin Efficiency](/Assets/Profit_Margin_Efficiency_ProductCat_Perf_Disc_Erosion.png)
+![Profit Margin Efficiency](Assets/Profit_Margin_Efficiency_ProductCat_Perf_Disc_Erosion.png)
 
 > Sub-category analysis revealed Bookcases and Machines to be among the lowest margin contributors, with Machines producing just **1.8% profit margin** and a **17.5% return rate**.
 
-🗂 Insight: [`Profit Margin Efficiency Insight →`](../docs/Insights/profit_margin_efficiency_insight.md)
+🗂 Insight: [`Profit Margin Efficiency Insight →`](docs/Insights/profit_margin_efficiency_insight.md)
 
 ---
 
 ### 🔹 4. Discounting & Margin Erosion
 
-![Segment Discount](/Assets/Segment_DiscountErosion_Overall.png)  
-![Discount vs Profit Scatter](/Assets/Profit_Discount_Impact_Overall.png)
+![Segment Discount](Assets/Segment_DiscountErosion_Overall.png)  
+![Discount vs Profit Scatter](Assets/Profit_Discount_Impact_Overall.png)
 
 > The scatterplot reveals deep discounting on some of the **least profitable products**.  
 > Segment-level analysis showed **Consumer discounts totaled $218K** with over **$300K in revenue loss.**
 
-🗂 Insight: [`Segment Discount Analysis →`](../docs/Insights/segment_discount_analysis.md)  
-🧠 Strategy: [`Segment Discount Strategy →`](/Strategic_Recommendations/Segment_Discount_Strategy.md)
+🗂 Insight: [`Segment Discount Analysis →`](docs/Insights/segment_discount_analysis.md)  
+🧠 Strategy: [`Segment Discount Strategy →`](Strategic_Recommendations/Segment_Discount_Strategy.md)
 
 ---
 
 ### 🔹 5. Returns Behavior by Segment & Product Line
 
-![Returns by Segment](/Assets/Returns_by_Segment_Return_Percent.png)  
-![Returns by Product Line](/Assets/Returns_by_Product_Line_Overall.png)
+![Returns by Segment](Assets/Returns_by_Segment_Return_Percent.png)  
+![Returns by Product Line](Assets/Returns_by_Product_Line_Overall.png)
 
 > Return behavior was most concentrated in **Office Supplies and Technology**.  
 > Machines (Technology) had a **17.5% return rate**, while categories like Labels and Envelopes had low return volumes but high margins.
 
-🗂 Insight: [`Returns by Product Line →`](../docs/Insights/Returns_By_Product_Line_Insight.md)  
-🧠 Strategy: [`Returns Strategy Recommendation →`](/Strategic_Recommendations/Returns_By_Product_Line_Strategy.md)
+🗂 Insight: [`Returns by Product Line →`](docs/Insights/Returns_By_Product_Line_Insight.md)  
+🧠 Strategy: [`Returns Strategy Recommendation →`](Strategic_Recommendations/Returns_By_Product_Line_Strategy.md)
 
 ---
 
@@ -122,9 +139,9 @@ Each section below features representative visuals from the full dashboard, link
 - 🧪 **A/B Testing of Discount-Free Campaigns**
 
 🧠 Strategy Files:
-- [`Profit Margin Efficiency Strategy →`](/Strategic_Recommendations/Profit_Margin_Efficiency_Strategy.md)  
-- [`Segment Discount Strategy →`](/Strategic_Recommendations/Segment_Discount_Strategy.md)  
-- [`Returns by Product Line Strategy →`](/Strategic_Recommendations/Returns_By_Product_Line_Strategy.md)
+- [`Profit Margin Efficiency Strategy →`](Strategic_Recommendations/Profit_Margin_Efficiency_Strategy.md)  
+- [`Segment Discount Strategy →`](Strategic_Recommendations/Segment_Discount_Strategy.md)  
+- [`Returns by Product Line Strategy →`](Strategic_Recommendations/Returns_By_Product_Line_Strategy.md)
 
 ---
 
@@ -172,8 +189,8 @@ Each section below features representative visuals from the full dashboard, link
 
 ## 🔗 Repository Navigation & Visual Access
 
-- 📂 [All Insight Files →](../docs/Insights)  
-- 📂 [All Strategic Recommendations →](/Strategic_Recommendations)  
+- 📂 [All Insight Files →](docs/Insights)  
+- 📂 [All Strategic Recommendations →](Strategic_Recommendations)  
 - 📊 [Interactive Tableau Storyboard →](#)
 
 ---
