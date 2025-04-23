@@ -82,6 +82,26 @@ Although this project was completed in a simulated consultancy context with publ
 - **Security & Privacy:** No sensitive personal information is present in this dataset
 - **Backup & Preservation:** `.twbx` file format maintained to prevent data loss during redesign or file migration
 
+## 🟨 Data Integrity as Risk Management
+
+In business intelligence, **data integrity is not just a technical detail — it is a core pillar of analytical reliability**. The accuracy of insights, the strength of recommendations, and the credibility of visual storytelling all rest on the assumption that the underlying data is trustworthy.
+
+Even a small margin of error in a dataset can create substantial risk:
+
+- 🟣 Misleading insights → Poor decision-making
+- 🟠 Over/under-forecasting → Inventory or pricing issues
+- 🟡 Inaccurate targeting → Missed customer segments or wasted budget
+- 🔵 Reporting discrepancies → Damaged credibility or compliance risk
+
+Although the Superstore dataset is widely used and accepted in the analytics community, this project applied **the same integrity mindset used in real-world BI engagements**:
+- ✅ Validated joins and relationships across all data tables
+- ✅ Applied LOD expressions to filter, segment, and flag inconsistencies
+- ✅ Designed calculated fields (e.g., `True Discount`, `Revenue Lost %`, `Return Flag`) to simulate diagnostic-level financial logic
+- ✅ Ensured no data anomalies skewed discounting, profit, or return rate interpretations
+
+> 🟪 Without integrity, even the most powerful insights can mislead.
+> Business intelligence doesn’t just mean analyzing data — it means **ensuring that the data is worth analyzing.**
+
 ---
 
 ## 🟦 Glossary of Key Terms
@@ -99,7 +119,6 @@ Although this project was completed in a simulated consultancy context with publ
 | **Margin Efficiency** | A performance measure indicating how effectively a product, segment, or category generates profit relative to revenue. |
 | **Regression (Linear)** | A statistical method used to model the relationship between a dependent variable and one or more independent variables. |
 | **R² (Coefficient of Determination)** | Indicates how well a regression model explains variability in the data; values closer to 1 suggest a stronger model fit. |
-
 
 ---
 
