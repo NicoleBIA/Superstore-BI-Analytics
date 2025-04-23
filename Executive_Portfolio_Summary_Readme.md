@@ -73,7 +73,7 @@ Each section below features representative visuals from the full dashboard, link
 
 > Sub-category analysis revealed Bookcases and Machines to be among the lowest margin contributors, with Machines producing just **1.8% profit margin** and a **17.5% return rate**.
 
-🗂 Insight: [`Profit Margin Efficiency Insight →`](docs/Insights/profit_margin_efficiency_insight.md)
+🗂 Insight: [`Profit Margin Efficiency Insight →`](docs/Insights/Profit_Margin_Efficiency_By_Category.md)
 
 ---
 
