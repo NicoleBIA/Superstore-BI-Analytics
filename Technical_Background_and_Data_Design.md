@@ -1,10 +1,10 @@
-# 🧠 Technical Background & Data Design Overview
+# 🟩 Technical Background & Data Design Overview
 
 This document serves as the technical companion to the **Superstore BI Analytics – Executive Business Intelligence Report**. It outlines the underlying dataset structure, relationships, modeling strategies, and data governance considerations that inform and support the insights and strategic recommendations presented in the main report.
 
 ---
 
-## 📊 Dataset Overview 
+## 🟪 Dataset Overview 
 
 | Table Name | Row Count | Column Count | Description |
 |------------|-----------|---------------|-------------|
@@ -34,7 +34,7 @@ This design enables detailed profitability, discount, and return-level analysis 
 
 ---
 
-## 🧮 Custom Measures & Data Enrichment
+## 🟦 Custom Measures & Data Enrichment
 
 The dataset was enriched with a series of calculated fields to enable deeper financial and behavioral analysis:
 
@@ -54,8 +54,17 @@ The dataset was enriched with a series of calculated fields to enable deeper fin
 | `Running Total Sales`       | Cumulative sales performance (via QTC) |
 
 ---
+> 🟨 **BI Note – Revenue Lost vs. Profit Loss**
+>
+> - **Revenue Lost** reduces contribution margin because less top-line income is available to cover variable and fixed costs.
+> - **Profit Loss** impacts net profit margin as it reflects all expenses deducted from total revenue.
+> - While both metrics reflect erosion in performance, revenue lost hits earlier in the financial pipeline, whereas profit loss reflects the final margin impact.
+>
+> Understanding this distinction is key when diagnosing **margin inefficiency** versus **net profitability risk**.
 
-## 🌍 Dataset Origin & Usage Rights
+
+
+## 🟢 Dataset Origin & Usage Rights
 
 The dataset used is a **publicly available sample dataset** provided by Tableau and widely available through repositories like Kaggle and Tableau Public. It is intended for educational, analytical, and demonstration use.
 
@@ -64,7 +73,7 @@ The dataset used is a **publicly available sample dataset** provided by Tableau 
 
 ---
 
-## 🔐 Data Governance & Ethics Considerations
+## 🟣 Data Governance & Ethics Considerations
 
 Although this project was completed in a simulated consultancy context with public data, the following data governance principles were respected:
 
@@ -75,7 +84,7 @@ Although this project was completed in a simulated consultancy context with publ
 
 ---
 
-## 📘 Glossary of Key Terms
+## 🟦 Glossary of Key Terms
 
 | Term | Definition |
 |------|------------|
@@ -94,7 +103,7 @@ Although this project was completed in a simulated consultancy context with publ
 
 ---
 
-## 📌 Related Files
+## 🔵 Related Files
 
 - 📄 [Executive Business Intelligence Report README](./Executive_Portfolio_Summary_README.md)
 - 📁 [Superstore-BI-Analytics GitHub Repository](./)
