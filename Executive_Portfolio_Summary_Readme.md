@@ -63,7 +63,7 @@ Each section below features representative visuals from the full dashboard, link
 
 > Some reps achieved high revenue but delivered low or negative margins. Regional disparities in performance suggest strategy misalignment or inconsistent discounting practices.
 
-🗂 Insight: [`Sales Rep & Regional Performance Insight →`](docs/Insights/sales_rep_and_region_insight.md)
+🗂 Insight: [`Sales Rep & Regional Performance Insight →`](docs/Insights/Sales_rep_Regional_Performance.md)
 
 ---
 
