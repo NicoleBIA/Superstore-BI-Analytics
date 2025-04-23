@@ -4,7 +4,7 @@ This document serves as the technical companion to the **Superstore BI Analytics
 
 ---
 
-## 📊 Dataset Overview
+## 📊 Dataset Overview 
 
 | Table Name | Row Count | Column Count | Description |
 |------------|-----------|---------------|-------------|
