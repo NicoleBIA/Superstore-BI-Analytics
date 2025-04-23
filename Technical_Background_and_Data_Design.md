@@ -96,7 +96,7 @@ Although this project was completed in a simulated consultancy context with publ
 
 ## 📌 Related Files
 
-- 📄 [Executive Business Intelligence Report README](./EExecutive_Portfolio_Summary_README.md)
+- 📄 [Executive Business Intelligence Report README](./Executive_Portfolio_Summary_README.md)
 - 📁 [Superstore-BI-Analytics GitHub Repository](./)
 
 ---
