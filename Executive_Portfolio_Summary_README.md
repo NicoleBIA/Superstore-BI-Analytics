@@ -1,5 +1,10 @@
 # Superstore BI Analytics – Executive Business Intelligence Report: Portfolio Summary Review
 
+> 🟢 **Looking for the strategic rationale behind this analysis?**  
+> Explore the companion document: [Why This Analysis Is Different](/Why_This_Analysis_Is_Different.md)
+
+---
+
 ## Project Theme and Scope
 **The Discounting Dilemma: Margin Erosion, Profit Risk & Returns in Superstore Sales**
 
