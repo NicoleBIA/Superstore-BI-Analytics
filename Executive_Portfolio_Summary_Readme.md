@@ -95,7 +95,7 @@ Each section below features representative visuals from the full dashboard, link
 > The scatterplot reveals deep discounting on some of the **least profitable products**.  
 > Segment-level analysis showed **Consumer discounts totaled $218K** with over **$300K in revenue loss.**
 
-🟣 Insight: [`Segment Discount Analysis →`](docs/Insights/segment_discount_analysis.md)  
+🟣 Insight: [`Segment Discount Analysis →`](docs/Insights/Segment_Discount_Analysis.md)  
 🟢 Strategy: [`Segment Discount Strategy →`](Strategic_Recommendations/Segment_Discount_Strategy.md)
 
 ---
