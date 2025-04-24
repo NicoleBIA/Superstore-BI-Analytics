@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/Assets/Superstore_BI_CoverPage.png" alt="Superstore BI Analytics – Executive Business Intelligence Report Cover" width="800"/>
+</p>
+
 # Superstore BI Analytics – Executive Business Intelligence Report: Portfolio Summary Review
 
 > 🟢 **Looking for the strategic rationale behind this analysis?**  
