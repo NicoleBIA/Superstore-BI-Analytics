@@ -69,7 +69,9 @@ Despite steady sales growth from 2014 to 2017, Superstore faces persistent margi
 The high profit margin from Same Day shipping to Home Office customers may reflect urgent, business-critical purchase behavior; such as restocking office supplies like **Paper, Envelopes or Labels**, which previously showed high margin efficiency.
 
 [Sales by Category & Subcategory: Paper](Assets/Sales_by_Category_SubCategory_PaperTT.png)
+
 [Sales by Category & Subcategory: Paper](Assets/Sales_by_Category_SubCategory_LabelsTT.png)
+
 [Sales by Category & Subcategory: Paper](Assets/Sales_by_Category_SubCategory_EnvelopesTT.png)
 
 This suggests that while Same Day isn’t a volume driver, it plays a vital role in **margin optimization for time-sensitive, high-utility items**.
