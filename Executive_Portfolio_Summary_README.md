@@ -18,21 +18,21 @@
 
 Through the strategic application of segmentation and regression modeling, complemented by insightful visual analytics, this project delivers a clear diagnosis of Superstore's profitability challenges. 
 
-The analysis pinpoints patterns of over-discounting, unprofitable product lines, and regional margin inconsistencies — with each key finding directly informing actionable recommendations designed to guide decision-makers toward improved performance.
+The analysis pinpoints patterns of over-discounting, unprofitable product lines, and regional margin inconsistencies with each key finding directly informing actionable recommendations designed to guide decision-makers toward improved performance.
 
 ---
 
 ### 🟪 Navigating Margin Challenges: A Strategic BI Intelligence Framework
 
-This executive report encapsulates a comprehensive BI intelligence engagement — directly addressing core business problems around margin erosion, profitability risk, and operational inefficiency. It demonstrates a consultant’s approach: from identifying key business imperatives and formulating incisive questions, to delivering actionable, data-validated strategic recommendations. 
+This executive report encapsulates a comprehensive BI intelligence engagement directly addressing core business problems around margin erosion, profitability risk, and operational inefficiency. It demonstrates a consultant’s approach: from identifying key business imperatives and formulating incisive questions, to delivering actionable, data-validated strategic recommendations. 
 
-Executives, BI leaders, and hiring managers will gain insight into a consultant’s ability to guide the full value chain — from business problem to strategic resolution — through clear narrative, technical fluency, and applied decision intelligence.
+Executives, BI leaders, and hiring managers will gain insight into a consultant’s ability to guide the full value chain from business problem to strategic resolution through clear narrative, technical fluency, and applied decision intelligence.
 
 ---
 
 ## 🟩 Introduction
 
-This report presents a curated portfolio of business intelligence insights developed to diagnose and address core performance challenges within Superstore’s sales and profitability data. Designed as both a strategic engagement and executive-facing deliverable, the analysis offers a comprehensive review of business patterns across 18 visual perspectives — emphasizing clarity, analytical depth, and real-world applicability.
+This report presents a curated portfolio of business intelligence insights developed to diagnose and address core performance challenges within Superstore’s sales and profitability data. Designed as both a strategic engagement and executive-facing deliverable, the analysis offers a comprehensive review of business patterns across 18 visual perspectives emphasizing clarity, analytical depth, and real-world applicability.
 
 The project reflects the full arc of applied BI practice: from framing the business problem and defining strategic questions, to delivering performance-aligned insights supported by actionable recommendations. Each section is structured to guide decision-makers from discovery to decision, highlighting opportunities for targeted action across pricing, margin protection, product performance, and return behavior.
 
@@ -65,7 +65,7 @@ Despite steady sales growth from 2014 to 2017, Superstore faces persistent margi
 ![Profit Performance Matrix](/Assets/Profit_Performance_Matrix_ShipMode.png)
 
 **Behavioral Cue:**  
-The high profit margin from Same Day shipping to Home Office customers may reflect urgent, business-critical purchase behavior — such as restocking office supplies like **Paper or Labels**, which previously showed high margin efficiency.
+The high profit margin from Same Day shipping to Home Office customers may reflect urgent, business-critical purchase behavior; such as restocking office supplies like **Paper or Labels**, which previously showed high margin efficiency.
 
 This suggests that while Same Day isn’t a volume driver, it plays a vital role in **margin optimization for time-sensitive, high-utility items**.
 
