@@ -65,12 +65,21 @@ Despite steady sales growth from 2014 to 2017, Superstore faces persistent margi
 ![Profit Performance Matrix](/Assets/Profit_Performance_Matrix_ShipModeTT.png)
 
 **Behavioral Cue:**  
-The high profit margin from Same Day shipping to Home Office customers may reflect urgent, business-critical purchase behavior; such as restocking office supplies like **Paper or Labels**, which previously showed high margin efficiency.
+The high profit margin from Same Day shipping to Home Office customers may reflect urgent, business-critical purchase behavior; such as restocking office supplies like **Paper, Enveloped or Labels**, which previously showed high margin efficiency.
 
 This suggests that while Same Day isn’t a volume driver, it plays a vital role in **margin optimization for time-sensitive, high-utility items**.
 
 **Strategic Opportunity:**  
 Develop a **premium fulfillment tier** focused on high-margin, high-urgency products for professional or remote office consumers.
+
+---
+
+### 🔗 Supporting Visual Evidence – High Margin Office Supplies  
+These sub-category breakdowns validate the earlier insight, revealing consistent high profit margin performance from office supply staples frequently linked to time-sensitive replenishment behaviors:
+
+- 📄 [Sales by Category & Sub-Category: **Paper**](/Assets/Sales_by_Category_SubCategory_PaperTT.png)  
+- 📄 [Sales by Category & Sub-Category: **Labels**](/Assets/Sales_by_Category_SubCategory_LabelsTT.png)  
+- 📄 [Sales by Category & Sub-Category: **Envelopes**](/Assets/Sales_by_Category_SubCategory_EnvelopesTT.png)
 
 ---
 
