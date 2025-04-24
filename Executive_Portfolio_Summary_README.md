@@ -70,9 +70,9 @@ The high profit margin from Same Day shipping to Home Office customers may refle
 
 [Sales by Category & Subcategory: Paper](Assets/Sales_by_Category_SubCategory_PaperTT.png)
 
-[Sales by Category & Subcategory: Paper](Assets/Sales_by_Category_SubCategory_LabelsTT.png)
+[Sales by Category & Subcategory: Labels](Assets/Sales_by_Category_SubCategory_LabelsTT.png)
 
-[Sales by Category & Subcategory: Paper](Assets/Sales_by_Category_SubCategory_EnvelopesTT.png)
+[Sales by Category & Subcategory: Envelopes](Assets/Sales_by_Category_SubCategory_EnvelopesTT.png)
 
 This suggests that while Same Day isn’t a volume driver, it plays a vital role in **margin optimization for time-sensitive, high-utility items**.
 
