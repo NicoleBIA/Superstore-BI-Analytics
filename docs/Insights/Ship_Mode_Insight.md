@@ -7,17 +7,17 @@
 ## Observation:
 While **Standard Class** dominates volume and total profit across all segments, **Same Day shipping to Home Office customers**emerged as the **highest profit margin pairing (18.5%)**, despite low sales volume. This atypical pairing reveals a subtle but powerful **behavioral signal in consumer logistics choices.**
 
-> 🟢 **Margin Tradeoff Insight**  
-> Despite generating the lowest total profit, **Same Day** shipping to **Home Office** customers yielded the **highest profit margin (18.5%)**, suggesting that premium delivery may be underleveraged in high-value niche segments.  
->  
-> Conversely, **Standard Class** to the **Consumer** segment generated the **highest total profit** but with the **lowest margin (11.0%)**, highlighting a potential **volume-over-margin tradeoff** that may warrant strategic review.
-
 ---
 
 ###  Behavioral Cue:
 **Home Office customers using Same Day delivery** likely reflect **urgent, business-critical purchasing behavior.** Previously analyzed sub-categories like **Paper** and **Labels** exhibited strong margin performance — suggesting that this segment is **restocking time-sensitive, high-utility office supplies.**
 
 > In this segment, **urgency outweighs cost sensitivity.**
+
+> 🟢 **Margin Tradeoff Insight**  
+> Despite generating the lowest total profit, **Same Day** shipping to **Home Office** customers yielded the **highest profit margin (18.5%)**, suggesting that premium delivery may be underleveraged in high-value niche segments.  
+>  
+> Conversely, **Standard Class** to the **Consumer** segment generated the **highest total profit** but with the **lowest margin (11.0%)**, highlighting a potential **volume-over-margin tradeoff** that may warrant strategic review.
 
 ---
 
