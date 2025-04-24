@@ -61,15 +61,16 @@ Despite steady sales growth from 2014 to 2017, Superstore faces persistent margi
 ---
 
 ## 🟩 Insight Spotlight – Profit Performance by Ship Mode
+🔗 Companion Insight: [Profit_Performance_Matrix_ShipMode.md](/docs/Insights/Ship_Mode_Insight.md)
 
 ![Profit Performance Matrix](/Assets/Profit_Performance_Matrix_ShipModeTT.png)
 
-**Behavioral Cue:**  
+** 🟣 Behavioral Cue:**  
 The high profit margin from Same Day shipping to Home Office customers may reflect urgent, business-critical purchase behavior; such as restocking office supplies like **Paper, Envelopes or Labels**, which previously showed high margin efficiency.
 
 This suggests that while Same Day isn’t a volume driver, it plays a vital role in **margin optimization for time-sensitive, high-utility items**.
 
-**Strategic Opportunity:**  
+** 🔵 Strategic Opportunity:**  
 Develop a **premium fulfillment tier** focused on high-margin, high-urgency products for professional or remote office consumers.
 
 ---
@@ -83,7 +84,7 @@ These sub-category breakdowns validate the earlier insight, revealing consistent
 
 ---
 
-## 🟣 Key Visual Narratives & Insights
+## 🟢 Key Visual Narratives & Insights
 
 Each section below features representative visuals from the full dashboard, linked to `.md` insight and strategy files for deeper analysis.
 
