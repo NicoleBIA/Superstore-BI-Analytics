@@ -70,7 +70,7 @@ The high profit margin from Same Day shipping to Home Office customers may refle
 > This suggests that while Same Day isn’t a volume driver, it plays a vital role in **margin optimization for time-sensitive, high-utility items**.
 
 ** 🔵 Strategic Opportunity:**  
-Develop a **premium fulfillment tier** focused on high-margin, high-urgency products for professional or remote office consumers.
+Develop a **premium fulfillment tier** focused on high-margin, high-urgency products for professional or remote office consumers. Review full strategy recommendations here:
 [Premium Fulfillment Optimization via Ship Mode Analytics](Strategic_Recommendations/Ship_Mode_Strategic_Recommendation.md)
 
 ---
