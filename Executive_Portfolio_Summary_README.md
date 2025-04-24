@@ -55,10 +55,26 @@ Despite steady sales growth from 2014 to 2017, Superstore faces persistent margi
 - Where are discounting practices undermining margin health?
 - Which return behaviors present operational and financial risk?
 - How can the business apply smarter segmentation to improve pricing and strategy?
+- What does the Home Office segment’s use of Same Day shipping reveal about urgency, and how can AI-driven analysis of this behavior unlock high-margin fulfillment opportunities and targeted premium service tiers?
+
+---
+---
+
+## 🟩 Insight Spotlight – Profit Performance by Ship Mode
+
+![Profit Performance Matrix](/Assets/Profit_Performance_Matrix_ShipMode.png)
+
+**Behavioral Cue:**  
+The high profit margin from Same Day shipping to Home Office customers may reflect urgent, business-critical purchase behavior — such as restocking office supplies like **Paper or Labels**, which previously showed high margin efficiency.
+
+This suggests that while Same Day isn’t a volume driver, it plays a vital role in **margin optimization for time-sensitive, high-utility items**.
+
+**Strategic Opportunity:**  
+Develop a **premium fulfillment tier** focused on high-margin, high-urgency products for professional or remote office consumers.
 
 ---
 
-## 🟢 Key Visual Narratives & Insights
+## 🟣 Key Visual Narratives & Insights
 
 Each section below features representative visuals from the full dashboard, linked to `.md` insight and strategy files for deeper analysis.
 
