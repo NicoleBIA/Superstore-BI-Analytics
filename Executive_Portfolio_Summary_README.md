@@ -62,7 +62,7 @@ Despite steady sales growth from 2014 to 2017, Superstore faces persistent margi
 
 ## 🟩 Insight Spotlight – Profit Performance by Ship Mode
 
-![Profit Performance Matrix](/Assets/Profit_Performance_Matrix_ShipMode.png)
+![Profit Performance Matrix](/Assets/Profit_Performance_Matrix_ShipModeTT.png)
 
 **Behavioral Cue:**  
 The high profit margin from Same Day shipping to Home Office customers may reflect urgent, business-critical purchase behavior; such as restocking office supplies like **Paper or Labels**, which previously showed high margin efficiency.
