@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 Key Insight: Strong Sales Growth, But Profit Signals Mixed Stability
+## 🟩 Key Insight: Strong Sales Growth, But Profit Signals Mixed Stability
 
 While total sales and profit both grew over the 2014–2017 period, a deeper dive into the trendlines reveals that **sales performance outpaced profit stability**.
 
@@ -22,31 +22,31 @@ While total sales and profit both grew over the 2014–2017 period, a deeper div
 
 ---
 
-## 🔍 Trend Observations:
+## 🟪 Trend Observations:
 
-### 📌 **Monthly Sales Trend**
+### 🟢 **Monthly Sales Trend**
 - Clear upward trend with seasonal spikes.
 - Smoother acceleration vs. monthly profit.
 - Regression line shows steady and significant growth.
 
-### 📌 **Monthly Profit Trend**
+### 🔵 **Monthly Profit Trend**
 - Volatile fluctuations with sharp peaks and valleys.
 - A steep dip in **January 2015 (-$3,281)** contrasts sharply with a peak in **December 2016 (+$17,885)**.
 - Despite volatility, trendline reflects positive growth.
 
-### 📌 **Yearly Sales Trend**
+### 🟣 **Yearly Sales Trend**
 - Strong year-over-year growth, supported by linear regression.
 - R² and p-value from regression confirm statistical significance.
 - 2016 was the strongest year in growth acceleration.
 
-### 📌 **Yearly Profit Trend**
+### 🟡 **Yearly Profit Trend**
 - Profit grew steadily across all years.
 - R² = 0.988 suggests time explains nearly all variance in profit.
 - P-value = 0.0059 confirms statistical significance.
 
 ---
 
-## 🧠 Interpretation:
+## 🟪 Interpretation:
 
 > **Sales is on a growth trajectory.** Profit is improving, but with more inconsistency — requiring careful discounting, promotion, and margin strategy.
 
@@ -56,7 +56,7 @@ While total sales and profit both grew over the 2014–2017 period, a deeper div
 
 ---
 
-## 💬 Strategic Questions:
+## 🟦 Strategic Questions:
 
 - What drove the sharp increase in both sales and profit in 2016?
 - Are there products or segments contributing to margin erosion?
@@ -64,7 +64,7 @@ While total sales and profit both grew over the 2014–2017 period, a deeper div
 
 ---
 
-## 📌 Insight Summary:
+## 🟩 Insight Summary:
 
 > The business is scaling well in **sales**, but **margin discipline** will be key to sustaining profitability.
 
