@@ -11,7 +11,7 @@ While total sales and profit both grew over the 2014–2017 period, a deeper div
 
 ---
 
-![KPI Sales, Profit and Trends Dasboard 2014-17](Assets/Superstore_KPI_Dashboard_Sales_Profit_Trends.png)
+![KPI Sales, Profit and Trends Dasboard 2014-17](/Assets/Superstore_KPI_Dashboard_Sales_Profit_Trends.png)
 
 
 ## 📈 Dashboard Metrics Summary:
