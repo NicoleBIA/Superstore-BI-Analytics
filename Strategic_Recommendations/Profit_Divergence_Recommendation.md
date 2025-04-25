@@ -29,7 +29,7 @@ This recommendation file builds on the diagnostic insight in `Profit_Divergence_
 
 ## Strategic Recommendations
 
-### 🔸 1. **Geo-Sensitive Margin Playbooks**
+### 1. **Geo-Sensitive Margin Playbooks**
 Tailor pricing, promotion, and discounting strategies to **region-segment profitability patterns**.  
 >  *Focus: East, South, and Central regions*
 
