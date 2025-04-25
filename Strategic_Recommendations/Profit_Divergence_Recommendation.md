@@ -31,36 +31,36 @@ This recommendation file builds on the diagnostic insight in `Profit_Divergence_
 
 ### 🔸 1. **Geo-Sensitive Margin Playbooks**
 Tailor pricing, promotion, and discounting strategies to **region-segment profitability patterns**.  
-> 📍 *Focus: East, South, and Central regions*
+>  *Focus: East, South, and Central regions*
 
 - Remove blanket discounting in low-margin combinations.  
 - Pilot localized price elasticity models or margin thresholds for promotions.
 
 ---
 
-### 🔸 2. **Segment-Optimized SKU Strategies**
+### 2. **Segment-Optimized SKU Strategies**
 Reevaluate product placement by segment.  
-> 📍 *Tables & Bookcases → Consumer & Corporate segments*
+>  *Tables & Bookcases → Consumer & Corporate segments*
 
 - Consider SKU reduction, bundling, or product replacements.  
 - Emphasize **Copiers, Accessories, or Paper** where margins outperform.
 
 ---
 
-### 🔸 3. **Profit Alerts for Divergence Triggers**
+### 3. **Profit Alerts for Divergence Triggers**
 Build logic into BI dashboards (e.g., Tableau or Power BI) to detect early signals of contribution divergence.  
 > Example: Flag when sales increase but profit declines for 3+ consecutive months.
 
 ---
 
-### 🔸 4. **Reallocate Inventory Investments**
+### 4. **Reallocate Inventory Investments**
 Use profit divergence diagnostics to **inform supply chain decisions**:  
 - Pause reorder frequency for chronic underperformers.  
 - Shift inventory and promotion spend toward **high-margin but under-promoted SKUs.**
 
 ---
 
-### 🔸 5. **Track Contribution, Not Just Conversion**
+### 5. **Track Contribution, Not Just Conversion**
 Embed **profitability-first thinking** in executive dashboards and KPI tracking:  
 - Include `Profit-to-Sales %` and `Discount Impact` by Region x Segment  
 - Train leadership to identify “volume ≠ value” blindspots  
