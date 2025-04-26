@@ -10,6 +10,8 @@ I specialize in using data as a strategic asset — not just to measure performa
 
 My focus is on delivering business intelligence that bridges operational reality to strategic growth — connecting insights to action.
 
+---
+
 What distinguishes me as a business intelligence strategist is my ability to synthesize complex datasets into clear, actionable frameworks that anticipate challenges and position organizations for long-term success.
 
 I analyze data through the integrated lens of market dynamics, behavioral psychology, and organizational strategy — creating intelligence that moves leaders beyond reaction toward intentional evolution.
