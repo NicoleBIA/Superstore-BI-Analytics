@@ -3,18 +3,18 @@
 **Nicole Reaves | Strategic Business Intelligence Studio**  
 *Designing insight systems that guide smarter business decisions and reveal unseen opportunity.*
 
-Hi, I’m Nicole — thank you for visiting my GitHub portfolio.
+Hi, I’m Nicole thank you for visiting my GitHub portfolio.
 
 I am passionate about using data not simply to describe the past, but to illuminate opportunity, strengthen decision-making, and drive intelligent market strategy.  
-I specialize in using data as a strategic asset — not just to measure performance, but to forecast opportunity, inform growth, and build future-ready organizations.
+I specialize in using data as a strategic asset, not just to measure performance, but to forecast opportunity, inform growth, and build future-ready organizations.
 
-My focus is on delivering business intelligence that bridges operational reality to strategic growth — connecting insights to action.
+My focus is on delivering business intelligence that bridges operational reality to strategic growth  connecting insights to action.
 
 ---
 
 What distinguishes me as a business intelligence strategist is my ability to synthesize complex datasets into clear, actionable frameworks that anticipate challenges and position organizations for long-term success.
 
-I analyze data through the integrated lens of market dynamics, behavioral psychology, and organizational strategy — creating intelligence that moves leaders beyond reaction toward intentional evolution.
+I analyze data through the integrated lens of market dynamics, behavioral psychology, and organizational strategy creating intelligence that moves leaders beyond reaction toward intentional evolution.
 
 One of my greatest strengths is designing insight systems that reveal hidden risks, surface untapped market potential, and identify behavioral trends that shape future outcomes.
 
