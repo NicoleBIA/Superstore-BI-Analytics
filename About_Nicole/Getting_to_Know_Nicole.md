@@ -34,4 +34,4 @@ I also have specialized skills training in:
 - Strategic Project Management Fundamentals
 
 Strengthening these applied technical skills is a foundation of formal academic study.  
-I hold a Bachelor of Arts in Communication (2013), a Master of Science in Management with a specialization in International Business (2016), and completed five years of doctoral-level study in Industrial-Organizational Psychology (2017–2022), with focus on strategic decision-making, organizational behavior, and applied human insight.
+I hold a Bachelor of Arts in Communication, a Master of Science in Management with a specialization in International Business, and I completed five years of doctoral-level study in Industrial-Organizational Psychology, with focus on strategic decision-making, international business, organizational behavior, and applied human insight.
