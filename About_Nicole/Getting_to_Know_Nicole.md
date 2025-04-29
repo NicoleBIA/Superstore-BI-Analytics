@@ -8,11 +8,11 @@ Hi, I’m Nicole thank you for visiting my GitHub portfolio.
 I am passionate about using data not simply to describe the past, but to illuminate opportunity, strengthen decision-making, and drive intelligent market strategy.  
 I specialize in using data as a strategic asset, not just to measure performance, but to forecast opportunity, inform growth, and build future-ready organizations.
 
-My focus is on delivering business intelligence that bridges operational reality to strategic growth  connecting insights to action.
+🟪 My focus is on delivering business intelligence that bridges operational reality to strategic growth  connecting insights to action.
 
 ---
 
-What distinguishes me as a business intelligence strategist is my ability to synthesize complex datasets into clear, actionable frameworks that anticipate challenges and position organizations for long-term success.
+🟦 What distinguishes me as a business intelligence strategist is my ability to synthesize complex datasets into clear, actionable frameworks that anticipate challenges and position organizations for long-term success.
 
 I analyze data through the integrated lens of market dynamics, behavioral psychology, and organizational strategy creating intelligence that moves leaders beyond reaction toward intentional evolution.
 
@@ -29,9 +29,9 @@ I also have specialized skills training in:
 - Excel for Business Intelligence
 - Power BI for Advanced Analytics
 - Business Analysis Processes
-- Advanced Data Visualization
+- Advanced Data Visualization 
 - SQL SSMS
 - Strategic Project Management Fundamentals
 
-Strengthening these applied technical skills is a foundation of formal academic study.  
+🟩 Strengthening these applied technical skills is a foundation of formal academic study.  
 I hold a Bachelor of Arts in Communication, a Master of Science in Management with a specialization in International Business, and I completed five years of doctoral-level study in Industrial-Organizational Psychology, with focus on strategic decision-making, international business, organizational behavior, and applied human insight.
