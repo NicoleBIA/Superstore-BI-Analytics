@@ -40,4 +40,4 @@ I have a diverse educational background consisting of:
 - Master of Science dehree in Management specializing in International Business - Walden University
 - Five years of Doctoral Studies in Industrial Organizational Psychology - Walden University
 
-`I completed five years of doctoral-level study in Industrial-Organizational Psychology, with focus on strategic decision-making, international business, organizational behavior, and applied human insight'`
+'I completed five years of doctoral-level study in Industrial-Organizational Psychology, with focus on strategic decision-making, international business, organizational behavior, and applied human insight'.
