@@ -33,5 +33,11 @@ I also have specialized skills training in:
 - SQL SSMS
 - Strategic Project Management Fundamentals
 
-🟩 Strengthening these applied technical skills is a foundation of formal academic study.  
-I hold a Bachelor of Arts in Communication, a Master of Science in Management with a specialization in International Business, and I completed five years of doctoral-level study in Industrial-Organizational Psychology, with focus on strategic decision-making, international business, organizational behavior, and applied human insight.
+🟩 Education
+
+I have a diverse educational background consisting of:
+- Bachelor of Arts degree in Communication - Metropolitan State University of Denver
+- Master of Science dehree in Management specializing in International Business - Walden University
+- Five years of Doctoral Studies in Industrial Organizational Psychology - Walden University
+
+`I completed five years of doctoral-level study in Industrial-Organizational Psychology, with focus on strategic decision-making, international business, organizational behavior, and applied human insight'`
