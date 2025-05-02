@@ -38,6 +38,7 @@ I also have specialized skills training in:
 I have a diverse educational background consisting of:
 - Bachelor of Arts degree in Communication - Metropolitan State University of Denver
 - Master of Science dehree in Management specializing in International Business - Walden University
-- Five years of Doctoral Studies in Industrial Organizational Psychology - Walden University
+- Doctoral Studies in Industrial Organizational Psychology - Walden University
 
-'I completed five years of doctoral-level study in Industrial-Organizational Psychology, with focus on strategic decision-making, international business, organizational behavior, and applied human insight'.
+I completed five years of doctoral-level study in Industrial-Organizational Psychology, with focus on strategic decision-making, international business, organizational behavior, and applied human insight.
+ > While I didn’t complete the program for personal reasons, I’m incredibly grateful for the depth of learning I gained during those five years. It built a strong foundation I still draw from today—especially in areas like quantitative and qualitative analysis, consumer psychology, and behavioral economics.
