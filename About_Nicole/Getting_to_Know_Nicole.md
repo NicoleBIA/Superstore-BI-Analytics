@@ -18,7 +18,7 @@ This section offers a deeper view into how I approach business intelligence—no
 
 What distinguishes me as a business intelligence strategist is my ability to synthesize complex datasets into clear, actionable frameworks that anticipate challenges and position organizations for long-term success.
 
-I analyze data through the integrated lens of market dynamics, behavioral psychology, and organizational strategy—creating intelligence that moves leaders beyond reaction toward intentional evolution.
+I analyze data through the integrated lens of market dynamics, behavioral psychology, and organizational strategy creating intelligence that moves leaders beyond reaction toward intentional evolution.
 
 One of my greatest strengths is designing insight systems that reveal hidden risks, surface untapped market potential, and identify behavioral trends that shape future outcomes.
 
