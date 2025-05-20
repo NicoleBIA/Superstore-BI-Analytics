@@ -8,7 +8,7 @@
 
 ## 🟩 Insight Summary
 
-This analysis evaluates profit performance and margin efficiency across three main product categories — **Technology**, **Office Supplies**, and **Furniture** — through the lens of sales, profit, margin %, and true discount ($). The insight centers on understanding not just who leads in raw profitability, but which categories are operationally efficient and where performance is compromised by discounting behavior.
+This analysis evaluates profit performance and margin efficiency across three main product categories **Technology**, **Office Supplies**, and **Furniture** through the lens of sales, profit, margin %, and true discount ($). The insight centers on understanding not just who leads in raw profitability, but which categories are operationally efficient and where performance is compromised by discounting behavior.
 
 ---
 
@@ -56,7 +56,7 @@ Despite robust sales, Furniture barely returns profit. Its **profit margin of ju
 
 ---
 
-### 🔗 Related Strategic Recommendation:
+### Related Strategic Recommendation:
 📄 [Profit_Divergence_Recommendations.md](../../Strategic_Recommendations/Profit_Divergence_Recommendation.md)
 
 
