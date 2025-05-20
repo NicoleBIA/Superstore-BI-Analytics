@@ -6,7 +6,7 @@
 
 ## 🟪 Business Context
 
-This strategic brief builds upon the visual insight highlighting category-level performance in profit, margin %, sales, and true discount. While Technology leads in both margin efficiency and profit volume, and Office Supplies performs near the profit average, **Furniture dramatically underperforms — despite generating $742K in sales, it returns only $18K in profit (2.5% margin)**.
+This strategic brief builds upon the visual insight highlighting category-level performance in profit, margin %, sales, and true discount. While Technology leads in both margin efficiency and profit volume, and Office Supplies performs near the profit average, **Furniture dramatically underperforms despite generating $742K in sales, it returns only $18K in profit (2.5% margin)**.
 
 The core issue is **not revenue weakness, but discount erosion**: Furniture absorbed **$156K in discounts**, the highest of any category.
 
@@ -14,7 +14,7 @@ The core issue is **not revenue weakness, but discount erosion**: Furniture abso
 
 ## 🟡 Problem Summary
 
-The visual shows that Furniture’s low profitability is driven by excessive discounting — not poor sales volume. This calls for a realignment of discount practices, guardrails, and pricing elasticity management across product categories.
+The visual shows that Furniture’s low profitability is driven by excessive discounting not poor sales volume. This calls for a realignment of discount practices, guardrails, and pricing elasticity management across product categories.
 
 > Tooltip diagnostics confirm that **Furniture doesn’t have a sales problem — it has a margin leakage problem** driven by discount erosion.
 
@@ -64,7 +64,7 @@ The visual shows that Furniture’s low profitability is driven by excessive dis
 - Educate teams on how excessive discounts undermine contribution profit.  
 - Link a portion of sales incentives to margin contribution, not just revenue booked.
 
-> This human-focused approach supports culture change, ensuring that profitability becomes a shared KPI — not just top-line revenue growth.
+> This human-focused approach supports culture change, ensuring that profitability becomes a shared KPI not just top-line revenue growth.
 
 ---
 
@@ -75,21 +75,21 @@ The visual shows that Furniture’s low profitability is driven by excessive dis
 
 > 🟣 *AI-enhanced testing platforms can track A/B performance in real time and analyze results across time periods and 
   customer segments.*  
-> These tools help quickly identify high-performing alternatives to discounts — enabling smarter, more profitable campaign 
+> These tools help quickly identify high-performing alternatives to discounts enabling smarter, more profitable campaign 
   designs.
 
 ---
 
-## 📁 Visuals Referenced
+## Visuals Referenced
 
 - `Profit_Margin_Efficiency_ProductCat_Perf_Disc_Erosion.png`  
 - `Profit_Margin_Efficiency_ProductCat_Perf_Disc_ErosionTT.png`
 
 ---
 
-## ✅ Summary
+## Summary
 
-**Furniture’s low profit isn’t due to lack of demand — it’s due to poor discount control.**  
+**Furniture’s low profit isn’t due to lack of demand it’s due to poor discount control.**  
 By integrating AI-assisted pricing intelligence and enforcing margin-first policies, Superstore can protect profitability without compromising sales volume. This recommendation empowers the business to evolve beyond top-line growth and into sustainable, margin-optimized performance.
 
 ---
