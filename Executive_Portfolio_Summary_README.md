@@ -75,7 +75,7 @@ Develop a **premium fulfillment tier** focused on high-margin, high-urgency prod
 
 ---
 
-### 🔗 Supporting Visual Evidence – High Margin Office Supplies  
+### Supporting Visual Evidence – High Margin Office Supplies  
 These sub-category breakdowns validate the earlier insight, revealing consistent high profit margin performance from office supply staples frequently linked to time-sensitive replenishment behaviors:
 
 - 📄 [Sales by Category & Sub-Category: **Paper**](/Assets/Sales_by_Category_SubCategory_PaperTT.png)  
@@ -90,7 +90,7 @@ Each section below features representative visuals from the full dashboard, link
 
 ---
 
-### 🔹 1. Sales Growth & Trend Validation (2014–2017)
+### 1. Sales Growth & Trend Validation (2014–2017)
 
 ![Sales Growth](Assets/Sales_Growth_Insights_2014_2017_Regression.png)
 
@@ -101,7 +101,7 @@ Each section below features representative visuals from the full dashboard, link
 
 ---
 
-### 🔹 2. Sales Rep & Regional Performance
+### 2. Sales Rep & Regional Performance
 
 ![Scorecard Table](Assets/Sales_Growth_by_Year_Summary_Table.png)  
 ![Bubble Chart](Assets/Sales_Rep_Performance_By_Region.png)
@@ -112,7 +112,7 @@ Each section below features representative visuals from the full dashboard, link
 
 ---
 
-### 🔹 3. Category & Sub-Category Profitability
+### 3. Category & Sub-Category Profitability
 
 ![Profit Margin Efficiency](Assets/Profit_Margin_Efficiency_ProductCat_Perf_Disc_Erosion.png)
 
@@ -122,7 +122,7 @@ Each section below features representative visuals from the full dashboard, link
 
 ---
 
-### 🔹 4. Discounting & Margin Erosion
+### 4. Discounting & Margin Erosion
 
 ![Segment Discount](Assets/Segment_DiscountErosion_Overall.png)  
 ![Discount vs Profit Scatter](Assets/Profit_Discount_Impact_Overall.png)
@@ -135,7 +135,7 @@ Each section below features representative visuals from the full dashboard, link
 
 ---
 
-### 🔹 5. Returns Behavior by Segment & Product Line
+### 5. Returns Behavior by Segment & Product Line
 
 ![Returns by Segment](Assets/Returns_by_Segment_Return_Percent.png)  
 ![Returns by Product Line](Assets/Returns_by_Product_Line_Overall.png)
@@ -227,11 +227,11 @@ Each section below features representative visuals from the full dashboard, link
 
 ---
 
-## 🔗 Repository Navigation & Visual Access
+## Rtory Navigation & Visual Access
 
-- 📂 [All Insight Files →](docs/Insights)  
-- 📂 [All Strategic Recommendations →](Strategic_Recommendations)  
-- 📊 [Interactive Tableau Storyboard →](#)
+- [All Insight Files →](docs/Insights)  
+- [All Strategic Recommendations →](Strategic_Recommendations)  
+- [Interactive Tableau Storyboard →](#)
 
 ---
 
