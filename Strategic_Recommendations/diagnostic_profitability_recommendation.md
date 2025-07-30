@@ -1,4 +1,4 @@
-# 🧠 Strategic Recommendation  
+# Strategic Recommendation  
 **Filename:** `diagnostic_profitability_recommendation.md`  
 **Linked Insight:** [Diagnostic Profitability Framework](../docs/Insights/Diagnostic_Profitability_Framework.md)
 
@@ -15,7 +15,7 @@ The [Diagnostic Profitability Framework](../docs/Insights/Diagnostic_Profitabili
 
 ---
 
-## 🟢 Strategic Risks Identified
+## Strategic Risks Identified
 
 - **Over-indexing on revenue optics**: Leadership may prioritize sales growth over profitability.
 - **Margin leakage from over-discounting**: Especially in segments like Consumer and East region.
@@ -43,7 +43,7 @@ Redirect budget toward categories with strong profit-to-sales ratios. Test if **
 
 ---
 
-## 🧠 Strategy Justification Using 5 Whys Root Cause Chain
+## Strategy Justification Using 5 Whys Root Cause Chain
 
 > “Why are we investing heavily in low-margin, high-volume products?”
 
@@ -61,7 +61,7 @@ Redirect budget toward categories with strong profit-to-sales ratios. Test if **
 
 ---
 
-## 🟦 Final Strategic Takeaway
+## Final Strategic Takeaway
 
 > **“Strategic clarity begins when vanity metrics are stripped away.”**  
 The business must evolve from chasing sales volume to prioritizing **value per transaction, per region, and per product line**. By grounding strategy in diagnostic profitability analysis, we shift from firefighting to foresight — unlocking sustainable, data-led growth.
