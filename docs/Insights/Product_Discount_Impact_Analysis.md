@@ -14,9 +14,9 @@ This scatter plot charts **True Discount ($)** against **Profit ($)** by product
 - **Technology** shows a slightly **positive trend**, suggesting some discounts may support strategic bundling or high-margin sales.  
 - **Office Supplies** exhibits **minimal correlation**, but certain products (e.g., Binding Systems) show revenue loss at mid-tier discounts.
 
-> ⚠️ One outlier—**Cubify CubeX 3D Printer**—had a 46.98% revenue loss on just $11K in sales, reinforcing the **margin-risk zone**.
+> One outlier—**Cubify CubeX 3D Printer**—had a 46.98% revenue loss on just $11K in sales, reinforcing the **margin-risk zone**.
 
-> 🟡  **Alliance Rubber Bands** anchor the neutral zone: 0% profit, 0% discount—a helpful baseline.
+> **Alliance Rubber Bands** anchor the neutral zone: 0% profit, 0% discount—a helpful baseline.
 
 ---
 
@@ -39,7 +39,7 @@ This scatter plot charts **True Discount ($)** against **Profit ($)** by product
 
 ---
 
-### 🔵 Visual Reference (Static Export)
+### Visual Reference (Static Export)
 
 ![Overall Regression](../../Assets/Profit_Discount_Impact_Overall.png)  
 > Canon & Cisco represent Technology’s positive/negative contrast  
