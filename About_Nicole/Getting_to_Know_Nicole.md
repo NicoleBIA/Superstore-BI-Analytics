@@ -65,4 +65,3 @@ I have a diverse educational background consisting of:
 - Doctoral Studies in Industrial Organizational Psychology - Walden University
 
 I completed five years of doctoral-level study in Industrial-Organizational Psychology, with focus on strategic decision-making, international business, organizational behavior, and applied human insight.
- > While I didn’t complete the doctoral program for personal reasons, I’m incredibly grateful for the depth of learning I gained during those five years. It built a strong foundation I still draw from today—especially in areas like quantitative and qualitative analysis, consumer psychology, and behavioral economics.
