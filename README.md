@@ -1,4 +1,4 @@
-# 🏬 Superstore Business Intelligence & Analytics
+# Superstore Business Intelligence & Analytics
 
 ## 📊 Project Overview
 Welcome to the **Superstore BI Analytics Project** — a business intelligence and strategic analysis portfolio entry focused on uncovering patterns in sales, profitability, customer behavior, and salesforce effectiveness. This project uses **Tableau** and **Excel** to transform the Superstore dataset into actionable insights and strategic recommendations.
@@ -23,7 +23,7 @@ For more on how this project differs from standard Superstore analyses, read:
 
 ---
 
-## 🎨 Custom Tableau Color Palettes
+## Custom Tableau Color Palettes
 To align the project’s visual identity with professional branding and psychological readability, I implemented **custom XML-defined color palettes**. These palettes strengthen storytelling by reinforcing key themes, highlighting segmentation, and maintaining visual consistency across all Tableau dashboards.
 
 **Enhancements:**
